@@ -1,0 +1,16 @@
+{
+  "sureler": [
+    {
+      "id": 1,
+      "title": "Fatiha Suresi 1. Sure",
+      "video_url": "https://adorsoft777.github.io/ezanapp/sureler/1fatiha-suresi.mp4",
+      "description": "Kur'an-ı Kerim'in başlangıç suresidir. Mekke döneminde inmiştir ve 7 ayettir."
+    },
+    {
+      "id": 2,
+      "title": "Bakara Suresi 2. Sure",
+      "video_url": "https://adorsoft777.github.io/ezanapp/sureler/2bakara-suresi.mp4",
+      "description": "Kur'an'ın en uzun suresidir. Medine döneminde inmiştir ve 286 ayettir."
+    }
+  ]
+}
