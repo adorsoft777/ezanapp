@@ -899,6 +899,305 @@
       "arabic": "بَيْنَا رَجُلٌ يَمْشِي فِي طَرِيقٍ وَجَدَ غُصْنَ شَوْكٍ عَلَى الطَّرِيقِ فَأَخَّرَهُ، فَشَكَرَ اللَّهُ لَهُ فَغَفَرَ لَهُ",
       "turkish": "Bir adam yolda yürürken bir diken dalı gördü ve onu kenara çekti (başkasına zarar vermemesi için). Allah onun bu hareketinden razı oldu ve onu bağışladı.",
       "source": "Buhârî, Ezân, 32; Müslim, Birr, 127"
+    },{
+      "id": 151,
+      "arabic": "الرَّجُلُ عَلَى دِينِ خَلِيلِهِ، فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ",
+      "turkish": "Kişi, dostunun dini (ve ahlakı) üzeredir. Bu yüzden her biriniz kiminle dostluk ettiğine iyice baksın.",
+      "source": "Tirmizî, Zühd, 45; Ebû Dâvud, Edeb, 16"
+    },
+    {
+      "id": 152,
+      "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَصِلْ رَحِمَهُ",
+      "turkish": "Allah'a ve ahiret gününe iman eden kimse, akrabalık bağlarını korusun (akrabalarını ziyaret edip hallerini sorsun).",
+      "source": "Buhârî, Edeb, 11; Müslim, Îmân, 74"
+    },
+    {
+      "id": 153,
+      "arabic": "مِنْ حُسْنِ إِسْلامِ الْمَرْءِ تَرْكُهُ مَا لا يَعْنِيهِ",
+      "turkish": "Kişinin kendisini ilgilendirmeyen (faydasız) şeyleri terk etmesi, Müslümanlığının güzelliğindendir.",
+      "source": "Tirmizî, Zühd, 11; İbn Mâce, Fiten, 12"
+    },
+    {
+      "id": 154,
+      "arabic": "قَالَ اللَّهُ عَزَّ وَجَلَّ: كُلُّ عَمَلِ ابْنِ آدَمَ لَهُ إِلا الصِّيَامَ، فَإِنَّهُ لِي وَأَنَا أَجْزِي بِهِ",
+      "turkish": "Allah Teâlâ (Hadis-i Kudsi'de) şöyle buyurdu: 'Âdemoğlunun her ameli kendisi içindir, ancak oruç müstesna. Çünkü o benim içindir ve onun mükafatını ancak ben veririm.'",
+      "source": "Buhârî, Savm, 9; Müslim, Sıyâm, 163"
+    },
+    {
+      "id": 155,
+      "arabic": "إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ",
+      "turkish": "Şüphesiz Allah, birinizin bir iş yaptığı zaman, onu en sağlam ve en güzel şekilde yapmasından hoşnut olur.",
+      "source": "Taberânî, el-Mu’cemü’l-Evsat, 1/275"
+    },
+    {
+      "id": 156,
+      "arabic": "لأَنْ يَهْدِيَ اللَّهُ بِكَ رَجُلًا وَاحِدًا خَيْرٌ لَكَ مِنْ أَنْ يَكُونَ لَكَ حُمْرُ النَّعَمِ",
+      "turkish": "Allah’ın senin vasıtanla bir tek kişiyi hidayete erdirmesi, senin için dünya dolusu kızıl develere (en kıymetli dünya malına) sahip olmaktan daha hayırlıdır.",
+      "source": "Buhârî, Cihâd, 143; Müslim, Fezâilü’s-Sahâbe, 34"
+    },
+    {
+      "id": 157,
+      "arabic": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ، وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ",
+      "turkish": "Müslüman, diğer Müslümanların elinden ve dilinden emin olduğu kimsedir. Muhacir (hicret eden) ise Allah’ın yasakladığı şeyleri terk eden kimsedir.",
+      "source": "Buhârî, Îmân, 4; Müslim, Îmân, 64"
+    },
+    {
+      "id": 158,
+      "arabic": "قُلْ: آمَنْتُ بِاللَّهِ، ثُمَّ اسْتَقِمْ",
+      "turkish": "(Ey Allah'ın Resulü, bana İslam hakkında öyle bir söz söyle ki senden sonra kimseden sormayayım diyen sahabeye:) 'Allah'a iman ettim de, sonra da dosdoğru ol!' buyurdu.",
+      "source": "Müslim, Îmân, 62; Ahmed b. Hanbel, III/413"
+    },
+    {
+      "id": 159,
+      "arabic": "إِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ",
+      "turkish": "Şüphesiz doğruluk iyiliğe (birr), iyilik de cennete götürür.",
+      "source": "Buhârî, Edeb, 69; Müslim, Birr, 103"
+    },
+    {
+      "id": 160,
+      "arabic": "لا تَدْخُلُونَ الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلا تُؤْمِنُوا حَتَّى تَحَابُّوا",
+      "turkish": "İman etmedikçe cennete giremezsiniz; birbirinizi sevmedikçe de (gerçek manada) iman etmiş olmazsınız.",
+      "source": "Müslim, Îmân, 93; Ebû Dâvud, Edeb, 131"
+    },
+    {
+      "id": 161,
+      "arabic": "مَنْ أَرَادَ الدُّنْيَا فَعَلَيْهِ بِالْعِلْمِ، وَمَنْ أَرَادَ الآخِرَةَ فَعَلَيْهِ بِالْعِلْمِ، وَمَنْ أَرَادَهُمَا مَعًا فَعَلَيْهِ بِالْعِلْمِ",
+      "turkish": "Kim dünyayı isterse ilme sarılsın, kim ahireti isterse ilme sarılsın, kim her ikisini de isterse yine ilme sarılsın.",
+      "source": "İmam Şafii (Mevkuf Hadis olarak zikredilir)"
+    },
+    {
+      "id": 162,
+      "arabic": "الدُّعَاءُ بَيْنَ الأَذَانِ وَالإِقَامَةِ لا يُرَدُّ",
+      "turkish": "Ezan ile kamet arasında yapılan dua reddedilmez (kabul olunur).",
+      "source": "Ebû Dâvud, Salât, 35; Tirmizî, Salât, 44"
+    },
+    {
+      "id": 163,
+      "arabic": "الظُّلْمُ ظُلُمَاتٌ يَوْمَ الْقِيَامَةِ",
+      "turkish": "Zulüm, kıyamet gününde (zâlim için) koyu karanlıklardır.",
+      "source": "Buhârî, Mezâlim, 8; Müslim, Birr, 56"
+    },
+    {
+      "id": 164,
+      "arabic": "مَنْ كَانَ لَهُ ثَلاثُ بَنَاتٍ فَصَبَرَ عَلَيْهِنَّ، وَأَطْعَمَهُنَّ، وَسَقَاهُنَّ، وَكَسَاهُنَّ مِنْ جِدَتِهِ؛ كُنَّ لَهُ حِجَابًا مِنَ النَّارِ يَوْمَ الْقِيَامَةِ",
+      "turkish": "Kimin üç kızı olur da onlara sabreder, imkanları ölçüsünde onları yedirir, içirir ve giydirirse; bu kızlar kıyamet gününde onun için ateşe karşı perde olurlar.",
+      "source": "İbn Mâce, Edeb, 3; Ahmed b. Hanbel, IV/154"
+    },
+    {
+      "id": 165,
+      "arabic": "لا يَرْحَمُ اللَّهُ مَنْ لا يَرْحَمُ النَّاسَ",
+      "turkish": "İnsanlara merhamet etmeyene Allah da merhamet etmez.",
+      "source": "Buhârî, Tevhîd, 2; Müslim, Fezâil, 66"
+    },
+    {
+      "id": 166,
+      "arabic": "مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا نَفَّسَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ",
+      "turkish": "Kim bir müminin dünyalık sıkıntılarından birini giderirse, Allah da onun kıyamet günündeki sıkıntılarından birini giderir.",
+      "source": "Müslim, Zikir, 38; Tirmizî, Birr, 19"
+    },
+    {
+      "id": 167,
+      "arabic": "إِنَّ اللَّهَ يَبْعَثُ لِهَذِهِ الأُمَّةِ عَلَى رَأْسِ كُلِّ مِائَةِ سَنَةٍ مَنْ يُجَدِّدُ لَهَا دِينَهَا",
+      "turkish": "Şüphesiz Allah, bu ümmet için her yüz senenin başında, ona dinini yenileyecek (hurafe ve yanlışlardan arındıracak) bir müceddid gönderir.",
+      "source": "Ebû Dâvud, Melâhim, 1"
+    },
+    {
+      "id": 168,
+      "arabic": "مَنْ قَرَأَ سُورَةَ الْكَهْفِ فِي يَوْمِ الْجُمُعَةِ أَضَاءَ لَهُ مِنَ النُّورِ مَا بَيْنَ الْجُمُعَتَيْنِ",
+      "turkish": "Kim Cuma günü Kehf Suresi'ni okursa, iki Cuma arasını onun için aydınlatacak bir nur verilir.",
+      "source": "Hâkim, el-Müstedrek, 2/399; Beyhakî, Sünenü’l-Kübrâ, 3/249"
+    },
+    {
+      "id": 169,
+      "arabic": "أَحَبُّ الأَسْمَاءِ إِلَى اللَّهِ عَبْدُ اللَّهِ وَعَبْدُ الرَّحْمَنِ",
+      "turkish": "Allah katında isimlerin en sevimlisi Abdullah ve Abdurrahman'dır.",
+      "source": "Müslim, Âdâb, 2; Ebû Dâvud, Edeb, 69"
+    },
+    {
+      "id": 170,
+      "arabic": "اقْرَءُوا الْقُرْآنَ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ شَفِيعًا لأَصْحَابِهِ",
+      "turkish": "Kur'an okuyun! Çünkü Kur'an, kıyamet gününde kendisini okuyanlara şefaatçi olarak gelecektir.",
+      "source": "Müslim, Müsâfirîn, 252"
+    },
+    {
+      "id": 171,
+      "arabic": "لا تَمَنَّوُا الْمَوْتَ لِضُرٍّ نَزَلَ بِكُمْ، فَإِنْ كَانَ لا بُدَّ فَاعِلًا فَلْيَقُلْ: اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي، وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي",
+      "turkish": "Başına gelen bir musibet sebebiyle hiçbiriniz ölümü temenni etmesin. Mutlaka bir şey söylemek gerekiyorsa şöyle desin: 'Allah’ım! Yaşamak benim için hayırlı olduğu müddetçe beni yaşat, ölüm benim için daha hayırlı olduğunda ise canımı al.'",
+      "source": "Buhârî, Merdâ, 19; Müslim, Zikir, 10"
+    },
+    {
+      "id": 172,
+      "arabic": "مَنْ صَلَّى الْعِشَاءَ فِي جَمَاعَةٍ فَكَأَنَّمَا قَامَ نِصْفَ اللَّيْلِ، وَمَنْ صَلَّى الصُّبْحَ فِي جَمَاعَةٍ فَكَأَنَّمَا صَلَّى اللَّيْلَ كُلَّهُ",
+      "turkish": "Yatsı namazını cemaatle kılan kimse, gecenin yarısını ibadetle geçirmiş gibidir. Sabah namazını da cemaatle kılan kimse, bütün geceyi ibadetle geçirmiş gibidir.",
+      "source": "Müslim, Mesâcid, 260; Ebû Dâvud, Salât, 47"
+    },
+    {
+      "id": 173,
+      "arabic": "الْمُؤْمِنُ غِرٌّ كَرِيمٌ، وَالْفَاجِرُ خِبٌّ لَئِيمٌ",
+      "turkish": "Mümin; saf (temiz kalpli), kerem sahibi ve güvenilirdir. Facir (günahkar/bozguncu) ise hilekar, aldatıcı ve aşağılıktır.",
+      "source": "Ebû Dâvud, Edeb, 5; Tirmizî, Birr, 7"
+    },
+    {
+      "id": 174,
+      "arabic": "لأَنْ يَحْتَطِبَ أَحَدُكُمْ حُزْمَةً عَلَى ظَهْرِهِ خَيْرٌ لَهُ مِنْ أَنْ يَسْأَلَ أَحَدًا فَيُعْطِيَهُ أَوْ يَمْنَعَهُ",
+      "turkish": "Sizden birinizin sırtında odun demeti taşıyıp satması, (insanlara gidip) el açmasından hayırlıdır. Çünkü o kişi ya verir ya da vermez (her iki durumda da dilenmek zilletir).",
+      "source": "Buhârî, Zekât, 50; Müslim, Zekât, 106"
+    },
+    {
+      "id": 175,
+      "arabic": "مَنْ حَلَفَ عَلَى يَمِينٍ فَرَأَى غَيْرَهَا خَيْرًا مِنْهَا فَلْيَأْتِ الَّذِي هُوَ خَيْرٌ وَلْيُكَفِّرْ عَنْ يَمِينِهِ",
+      "turkish": "Kim bir şey için yemin eder de sonra başkasını ondan daha hayırlı görürse, o hayırlı olanı yapsın ve yemini için keffâret versin.",
+      "source": "Müslim, Eymân, 11; Nesâî, Eymân, 15"
+    },
+    {
+      "id": 176,
+      "arabic": "خَيْرُكُمْ مَنْ طَالَ عُمُرُهُ وَحَسُنَ عَمَلُهُ",
+      "turkish": "Sizin en hayırlınız, ömrü uzun ve ameli güzel olanınızdır.",
+      "source": "Tirmizî, Zühd, 21; Ahmed b. Hanbel, V/40"
+    },
+    {
+      "id": 177,
+      "arabic": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا، وَخِيَارُكُمْ خِيَارُكُمْ لِنِسَائِهِمْ",
+      "turkish": "Müminlerin iman bakımından en olgunu, ahlakı en güzel olanıdır. Sizin en hayırlınız da kadınlarına (eşlerine) karşı en hayırlı davrananınızdır.",
+      "source": "Tirmizî, Radâ, 11; Ebû Dâvud, Sünne, 15"
+    },
+    {
+      "id": 178,
+      "arabic": "إِنَّ لِكُلِّ دِينٍ خُلُقًا، وَخُلُقُ الإِسْلامِ الْحَيَاءُ",
+      "turkish": "Her dinin bir ahlakı vardır; İslam'ın ahlakı ise hayâdır (utanma duygusudur).",
+      "source": "İbn Mâce, Zühd, 17; Muvatta, Hüsnü’l-Huluk, 9"
+    },
+    {
+      "id": 179,
+      "arabic": "تَرَكْتُ فِيكُمْ أَمْرَيْنِ لَنْ تَضِلُّوا مَا تَمَسَّكْتُمْ بِهِمَا: كِتَابَ اللَّهِ وَسُنَّةَ نَبِيِّهِ",
+      "turkish": "Size iki şey bırakıyorum; onlara sımsıkı sarıldığınız sürece asla yolunuzu şaşırmazsınız: Allah’ın Kitabı (Kur’an) ve Peygamberinin sünneti.",
+      "source": "Muvatta, Kader, 3"
+    },
+    {
+      "id": 180,
+      "arabic": "مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُصِبْ مِنْهُ",
+      "turkish": "Allah kimin için hayır dilerse, onu (günahlarından arındırmak veya derecesini yükseltmek için) bir musibete uğratır.",
+      "source": "Buhârî, Merdâ, 1"
+    },
+    {
+      "id": 181,
+      "arabic": "الْمُسْتَبَّانِ مَا قَالا فَعَلَى الْبَادِئِ، مَا لَمْ يَعْتَدِ الْمَظْلُومُ",
+      "turkish": "Birbirine söven iki kişinin söylediklerinin günahı, mazlum olan sınırı aşmadığı sürece, ilk söze başlayan üzerinedir.",
+      "source": "Müslim, Birr, 68; Tirmizî, Birr, 51"
+    },
+    {
+      "id": 182,
+      "arabic": "لا يَشْرَبَنَّ أَحَدٌ مِنْكُمْ قَائِمًا",
+      "turkish": "Sizden biriniz (zorunlu bir durum olmadıkça) ayakta su içmesin.",
+      "source": "Müslim, Eşribe, 116"
+    },
+    {
+      "id": 183,
+      "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيُكْرِمْ جَارَهُ",
+      "turkish": "Allah'a ve ahiret gününe iman eden kimse komşusuna ikramda bulunsun.",
+      "source": "Buhârî, Edeb, 31; Müslim, Îmân, 74"
+    },
+    {
+      "id": 184,
+      "arabic": "مَنْ لَمْ يَرْحَمْ مَنْ فِي الأَرْضِ لَمْ يَرْحَمْهُ مَنْ فِي السَّمَاءِ",
+      "turkish": "Yeryüzündekilere merhamet etmeyene, gökyüzündekiler de merhamet etmez.",
+      "source": "Taberânî, el-Mu’cemü’l-Kebîr, 1/359"
+    },
+    {
+      "id": 185,
+      "arabic": "أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ الصَّلاةُ عَلَى وَقْتِهَا، ثُمَّ بِرُّ الْوَالِدَيْنِ، ثُمَّ الْجِهَادُ فِي سَبِيلِ اللَّهِ",
+      "turkish": "Amellerin Allah katında en sevimli olanı vaktinde kılınan namazdır. Sonra anne babaya iyilik etmek, sonra da Allah yolunda cihad etmektir.",
+      "source": "Buhârî, Mevâkît, 5; Müslim, Îmân, 137"
+    },
+    {
+      "id": 186,
+      "arabic": "سَيِّدُ الاسْتِغْفَارِ أَنْ تَقُولَ: اللَّهُمَّ أَنْتَ رَبِّي لا إِلَهَ إِلا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ...",
+      "turkish": "İstiğfarın efendisi (Seyyidü'l-İstighfar) şudur: 'Allah’ım! Sen benim Rabbimsin. Senden başka ilah yoktur. Beni Sen yarattın ve ben Senin kulunum. Gücüm yettiğince Sana verdiğim söz ve ahid üzerindeyim. Yaptıklarımın şerrinden Sana sığınırım. Üzerimdeki nimetini itiraf eder, günahımı da kabul ederim. Beni bağışla, çünkü günahları Senden başkası bağışlayamaz.'",
+      "source": "Buhârî, Daavât, 2"
+    },
+    {
+      "id": 187,
+      "arabic": "مَنْ كَانَ آخِرُ كَلامِهِ لا إِلَهَ إِلا اللَّهُ دَخَلَ الْجَنَّةَ",
+      "turkish": "Kimin son sözü 'Lâ ilâhe illallâh' olursa, o kişi cennete girer.",
+      "source": "Ebû Dâvud, Cenâiz, 20; Ahmed b. Hanbel, V/247"
+    },
+    {
+      "id": 188,
+      "arabic": "لا يَجْمَعُ اللَّهُ بَيْنَ عَبْدٍ وَبَيْنَ غُبَارٍ فِي سَبِيلِ اللَّهِ وَدُخَانِ جَهَنَّمَ",
+      "turkish": "Allah, bir kulun üzerinde Allah yolunda (cihad ederken) yutulan toz ile cehennem dumanını asla bir araya getirmez.",
+      "source": "Nesâî, Cihâd, 8; Ahmed b. Hanbel, II/256"
+    },
+    {
+      "id": 189,
+      "arabic": "مَنْ جَلَسَ فِي مَجْلِسٍ فَكَثُرَ فِيهِ لَغَطُهُ، فَقَالَ قَبْلَ أَنْ يَقُومَ: سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلَهَ إِلا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ؛ إِلا غُفِرَ لَهُ مَا كَانَ فِي مَجْلِسِهِ ذَلِكَ",
+      "turkish": "Kim bir mecliste oturur da orada lüzumsuz sözlerle vaktini geçirirse, o meclisten kalkmadan önce: 'Allah’ım! Seni hamd ile noksanlıklardan tenzih ederim. Senden başka ilah olmadığına şahitlik ederim. Senden bağışlanma diler ve Sana tevbe ederim' derse, o meclisteki günahları bağışlanır.",
+      "source": "Tirmizî, Daavât, 38; Ebû Dâvud, Edeb, 95"
+    },
+    {
+      "id": 190,
+      "arabic": "خَيْرُ الصَّحَابَةِ عِنْدَ اللَّهِ خَيْرُهُمْ لِصَاحِبِهِ، وَخَيْرُ الْجِيرَانِ عِنْدَ اللَّهِ خَيْرُهُمْ لِجَارِهِ",
+      "turkish": "Allah katında arkadaşların en hayırlısı, arkadaşına karşı en hayırlı olandır. Allah katında komşuların en hayırlısı da komşusuna karşı en hayırlı davranandır.",
+      "source": "Tirmizî, Birr, 28; Ahmed b. Hanbel, II/167"
+    },
+    {
+      "id": 191,
+      "arabic": "لا سَبَّقَ إِلا فِي نَصْلٍ أَوْ خُفٍّ أَوْ حَافِرٍ",
+      "turkish": "Ödüllü yarışmalar ancak ok atıcılığı, deve yarışı ve at yarışı (veya bunlara benzer askeri eğitimler) için helaldir.",
+      "source": "Tirmizî, Cihâd, 22; Ebû Dâvud, Cihâd, 61"
+    },
+    {
+      "id": 192,
+      "arabic": "مَنْ سَأَلَ اللَّهَ الْجَنَّةَ ثَلاثَ مَرَّاتٍ، قَالَتِ الْجَنَّةُ: اللَّهُمَّ أَدْخِلْهُ الْجَنَّةَ",
+      "turkish": "Kim Allah'tan üç defa cenneti isterse, cennet: 'Allah'ım onu cennete koy' der. Kim de üç defa ateşten (cehennemden) sığınırsa, ateş: 'Allah'ım onu ateşten koru' der.",
+      "source": "Tirmizî, Cennet, 27; İbn Mâce, Zühd, 39"
+    },
+    {
+      "id": 193,
+      "arabic": "إِنَّ أَعْظَمَ الذُّنُوبِ عِنْدَ اللَّهِ رَجُلٌ يَتَزَوَّجُ امْرَأَةً فَلَمَّا قَضَى حَاجَتَهُ مِنْهَا طَلَّقَهَا وَذَهَبَ بِمَهْرِهَا",
+      "turkish": "Allah katında büyük günahlardan biri de; bir adamın bir kadınla evlenip muradına erdikten sonra onu boşayıp mehrini vermemesidir.",
+      "source": "Hâkim, el-Müstedrek, 2/198"
+    },
+    {
+      "id": 194,
+      "arabic": "لا تَزَالُ أُمَّتِي بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ",
+      "turkish": "İnsanlar (oruçlarını açmak için) iftarda acele ettikleri sürece hayır üzere kalmaya devam ederler.",
+      "source": "Buhârî, Savm, 45; Müslim, Sıyâm, 48"
+    },
+    {
+      "id": 195,
+      "arabic": "السِّوَاكُ مَطْهَرَةٌ لِلْفَمِ مَرْضَاةٌ لِلرَّبِّ",
+      "turkish": "Misvak kullanmak ağız için temizlik, Rab (Allah) için ise rıza (hoşnutluk) vesilesidir.",
+      "source": "Buhârî, Savm, 27; Nesâî, Tahâret, 4"
+    },
+    {
+      "id": 196,
+      "arabic": "مَنْ تَرَكَ الصَّلاةَ مُتَعَمِّدًا فَقَدْ كَفَرَ جِهَارًا",
+      "turkish": "Kim namazı kasten (inkar ederek veya hafife alarak) terk ederse, apaçık bir küfre (veya büyük bir günaha) düşmüş olur.",
+      "source": "Taberânî, el-Mu’cemü’l-Evsat, 3/343"
+    },
+    {
+      "id": 197,
+      "arabic": "أَنَا أَوْلَى بِكُلِّ مُؤْمِنٍ مِنْ نَفْسِهِ، فَمَنْ تَرَكَ مَالًا فَلأَهْلِهِ، وَمَنْ تَرَكَ دَيْنًا أَوْ ضَيَاعًا فَإِلَيَّ وَعَلَيَّ",
+      "turkish": "Ben her mümine kendi nefsinden daha yakınım. Kim arkasında bir mal bırakırsa o mirasçılarınındır. Kim de bir borç veya (bakıma muhtaç) bir aile bırakırsa, o bana aittir (sorumluluğu benim üzerimdedir).",
+      "source": "Buhârî, Ferâiz, 4; Müslim, Ferâiz, 14"
+    },
+    {
+      "id": 198,
+      "arabic": "لا تَقُومُ السَّاعَةُ حَتَّى يُقْبَضَ الْعِلْمُ، وَتَكْثُرَ الزَّلازِلُ، وَيَتَقَارَبَ الزَّمَانُ، وَتَظْهَرَ الْفِتَنُ، وَيَكْثُرَ الْهَرْجُ، وَهُوَ الْقَتْلُ",
+      "turkish": "Şu şeyler meydana gelmedikçe kıyamet kopmaz: İlim (alimlerin ölümüyle) ortadan kalkar, depremler çoğalır, zaman kısalır (bereket azalır), fitneler ortaya çıkar ve herc (yani cinayetler) artar.",
+      "source": "Buhârî, İstiskâ, 27; Müslim, Fiten, 18"
+    },
+    {
+      "id": 199,
+      "arabic": "مَا مِنْ مُسْلِمٍ يُصِيبُهُ أَذًى مِنْ مَرَضٍ فَمَا سِوَاهُ إِلا حَطَّ اللَّهُ بِهِ سَيِّئَاتِهِ كَمَا تَحُطُّ الشَّجَرَةُ وَرَقَهَا",
+      "turkish": "Hastalık veya başka bir şey sebebiyle eziyet çeken hiçbir Müslüman yoktur ki; ağacın yapraklarını dökmesi gibi, Allah da onun günahlarını bu sebeple dökmesin.",
+      "source": "Buhârî, Merdâ, 2; Müslim, Birr, 45"
+    },
+    {
+      "id": 200,
+      "arabic": "مَنْ صَلَّى بَرْدَيْنِ دَخَلَ الْجَنَّةَ",
+      "turkish": "İki serinlik vaktindeki namazı (Sabah ve İkindi namazlarını) kılan kimse cennete girer.",
+      "source": "Buhârî, Mevâkît, 26; Müslim, Mesâcid, 261"
     }
   ]
 }
