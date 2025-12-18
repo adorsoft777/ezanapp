@@ -1,0 +1,1203 @@
+{
+  "ayetler": [
+  {
+    "id": 1,
+    "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ﴿١﴾ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ ﴿٢﴾ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ﴿٣﴾ مَٰلِكِ يَوْمِ ٱلدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ ﴿٦﴾ صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ ﴿٧﴾",
+    "turkish": "Rahmân ve Rahîm olan Allah'ın adıyla. Hamd, âlemlerin Rabbi, Rahmân, Rahîm, hesap ve ceza gününün (ahiret gününün) maliki Allah'a mahsustur. (Rabbimiz!) Ancak sana kulluk eder ve yalnız senden yardım dileriz. Bizi doğru yola, kendilerine nimet verdiklerinin yoluna ilet; gazaba uğrayanlarınkine ve sapkınlarınkine değil.",
+    "source": "Fâtiha Suresi, 1-7. Ayetler"
+  },
+  {
+    "id": 2,
+    "arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ :لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "turkish": "Namazı dosdoğru kılın, zekâtı verin. Kendiniz için her ne iyilik işlemiş olursanız, Allah katında onu bulursunuz. Şüphesiz Allah bütün yaptıklarınızı görür.",
+    "source": "Bakara Suresi, 110. Ayet "
+  },
+  {
+    "id": 3,
+    "arabic": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+    "turkish": "Rabbimiz! Bizi sana teslim olmuş kimseler kıl. Soyumuzdan da sana teslim olmuş bir ümmet kıl. Bize ibadet yerlerini ve ilkelerini göster. Tövbemizi kabul et. Çünkü sen, tövbeleri çok kabul edensin, çok merhametli olansın.",
+    "source": "Bakara Suresi, 128. Ayet "
+  },
+  {
+    "id": 4,
+    "arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّٰبِرِينَ",
+    "turkish": "Andolsun ki sizi biraz korku ve açlıkla, bir de mallar, canlar ve ürünlerden eksilterek deneriz. Sabredenleri müjdele.",
+    "source": "Bakara Suresi, 155. Ayet "
+  },
+  {
+    "id": 5,
+    "arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ حَلَٰلًا طَيِّبًا وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+    "turkish": "Ey insanlar! Yeryüzündeki şeylerin helal ve temiz olanlarından yiyin! Şeytanın izinden yürümeyin. Çünkü o sizin için apaçık bir düşmandır.",
+    "source": "Bakara Suresi, 168. Ayet "
+  },
+  {
+    "id": 6,
+    "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+    "turkish": "Ey iman edenler! Allah'a karşı gelmekten sakınmanız için oruç, sizden öncekilere farz kılındığı gibi, size de farz kılındı.",
+    "source": "Bakara Suresi, 183. Ayet "
+  },
+  {
+    "id": 7,
+    "arabic": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+    "turkish": "Kullarım, beni senden sorarlarsa, (bilsinler ki), gerçekten ben (onlara çok) yakınım. Bana dua edince, dua edenin duasına cevap veririm. O halde, doğru yolu bulmaları için benim davetime uysunlar, bana iman etsinler.",
+    "source": "Bakara Suresi, 186. Ayet "
+  },
+  {
+    "id": 8,
+    "arabic": "وَمِنْهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا fِى ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ حَسَنَةً وَقِنَا عَذَابَ ٱلنَّارِ",
+    "turkish": "Onlardan, 'Rabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru' diyenler de vardır.",
+    "source": "Bakara Suresi, 201. Ayet "
+  },
+  {
+    "id": 9,
+    "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+    "turkish": "Allah, kendisinden başka hiçbir ilâh olmayandır. Diridir, kayyûmdur. Onu ne bir uyuklama tutabilir ne de bir uyku. Göklerdeki her şey, yerdeki her şey onundur. İzni olmaksızın onun katında şefaat edecek kimdir? O, kulların önlerindekini ve arkalarındakini bilir. Onlar onun ilminden, kendisinin dilediği kadarından başka bir şeyi kavrayamazlar. Onun kürsüsü bütün gökleri ve yeri kaplayıp kuşatmıştır. Gökleri ve yeri koruyup gözetmek ona güç gelmez. O, yücedir, büyüktür.",
+    "source": "Bakara Suresi, 255. Ayet (Ayetü'l-Kürsi)"
+  },
+  {
+    "id": 10,
+    "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ",
+    "turkish": "Ey iman edenler! Allah'a ve ahiret gününe inanmadığı halde insanlara gösteriş olsun diye malını harcayan kimse gibi, sadakalarınızı başa kakmak ve gönül kırmak suretiyle boşa çıkarmayın.",
+    "source": "Bakara Suresi, 264. Ayet "
+  },
+  {
+    "id": 11,
+    "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَنفِقُوا۟ مِن طَيِّبَٰتِ مَا كَسَبْتُمْ وَمِمَّآ أَخْرَجْنَا لَكُم مِّنَ ٱلْأَرْضِ",
+    "turkish": "Ey iman edenler! Kazandıklarınızın iyilerinden ve yerden sizin için çıkardıklarımızdan Allah yolunda harcayın.",
+    "source": "Bakara Suresi, 267. Ayet "
+  },
+  {
+    "id": 12,
+    "arabic": "ٱلشَّيْطَٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ ۖ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+    "turkish": "Şeytan sizi fakirlikle korkutur ve size, çirkinliği ve hayasızlığı emreder. Allah ise size kendi katından mağfiret ve bol nimet vadediyor.",
+    "source": "Bakara Suresi, 268. Ayet "
+  },
+  {
+    "id": 13,
+    "arabic": "ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ",
+    "turkish": "Faiz yiyenler, ancak şeytanın çarptığı kimsenin kalktığı gibi kalkarlar. Bu, onların, 'Alışveriş de faiz gibidir' demelerinden dolayıdır. Oysa Allah alışverişi helal, faizi haram kılmıştır.",
+    "source": "Bakara Suresi, 275. Ayet "
+  },
+  {
+    "id": 14,
+    "arabic": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+    "turkish": "Peygamber, Rabbinden kendisine indirilene iman etti, müminler de (iman ettiler). Her biri Allah'a, meleklerine, kitaplarına ve peygamberlerine iman ettiler ve şöyle dediler: 'Onun peygamberlerinden hiçbirini (diğerinden) ayırt etmeyiz.' Şöyle de dediler: 'İşittik ve itaat ettik. Ey Rabbimiz! Senden bağışlama dileriz. Dönüş yalnız sanadır.'",
+    "source": "Bakara Suresi, 285. Ayet"
+  },
+  {
+    "id": 15,
+    "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ",
+    "turkish": "Allah, bir kimseyi ancak gücünün yettiği şeyle yükümlü kılar. Onun kazandığı iyilik kendi yararına, kötülük de kendi zararınadır.",
+    "source": "Bakara Suresi, 286. Ayet "
+  },
+  {
+    "id": 16,
+    "arabic": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌ",
+    "turkish": "O sana Kitab'ı indirendir. Onun bazı âyetleri muhkemdir, onlar Kitab'ın anasıdır. Diğerleri de müteşâbihtir.",
+    "source": "Âl-i İmrân Suresi, 7. Ayet "
+  },
+  {
+    "id": 17,
+    "arabic": "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلْمَلَٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "turkish": "Allah, melekler ve ilim sahipleri, adaleti ayakta tutarak (şahitlik ettiler ki); O'ndan başka ilâh yoktur. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir.",
+    "source": "Âl-i İmrân Suresi, 18. Ayet"
+  },
+  {
+    "id": 18,
+    "arabic": "قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+    "turkish": "De ki: 'İçinizdekini gizleseniz de, açığa vursanız da Allah onu bilir. Göklerdeki her şeyi, yerdeki her şeyi de bilir.'",
+    "source": "Âl-i İmrân Suresi, 29. Ayet "
+  },
+  {
+    "id": 19,
+    "arabic": "قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+    "turkish": "De ki: 'Eğer Allah'ı seviyorsanız bana uyun ki, Allah da sizi sevsin ve günahlarınızı bağışlasın. Çünkü Allah çok bağışlayandır, çok merhamet edendir.'",
+    "source": "Âl-i İmrân Suresi, 31. Ayet "
+  },
+  {
+    "id": 20,
+    "arabic": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ",
+    "turkish": "Siz, insanlar için çıkarılmış en hayırlı ümmetsiniz. İyiliği emreder, kötülükten men eder ve Allah'a iman edersiniz.",
+    "source": "Âl-i İmrân Suresi, 110. Ayet "
+  },
+  {
+    "id": 21,
+    "arabic": "وَسَارِعُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ",
+    "turkish": "Rabbinizin bağışına, genişliği göklerle yer arası kadar olan ve Allah'a karşı gelmekten sakınanlar için hazırlanmış bulunan cennete koşun.",
+    "source": "Âl-i İmrân Suresi, 133. Ayet "
+  },
+  {
+    "id": 22,
+    "arabic": "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَاظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+    "turkish": "Onlar bollukta ve darlıkta Allah yolunda harcayanlar, öfkelerini yenenler, insanları affedenlerdir. Allah iyilik edenleri sever.",
+    "source": "Âl-i İmrân Suresi, 134. Ayet "
+  },
+  {
+    "id": 23,
+    "arabic": "فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ",
+    "turkish": "Allah'ın rahmeti sayesinde sen onlara karşı yumuşak davrandın. Eğer kaba, katı yürekli olsaydın, onlar senin etrafından dağılıp giderlerdi.",
+    "source": "Âl-i İmrân Suresi, 159. Ayet"
+  },
+  {
+    "id": 24,
+    "arabic": "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَٰبًا مُّؤَجَّلًا",
+    "turkish": "Hiçbir kimse Allah'ın izni olmadan ölmez. Ölüm belirli bir süreye göre yazılmıştır.",
+    "source": "Âl-i İmrân Suresi, 145. Ayet "
+  },
+  {
+    "id": 25,
+    "arabic": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم ۖ بَلْ هُوَ شَرٌّ لَّهُمْ",
+    "turkish": "Allah'ın kendilerine lütfundan verdiği nimetlerde cimrilik edenler, bunun, kendileri için hayırlı olduğunu sanmasınlar. Hayır! O kendileri için bir şerdir.",
+    "source": "Âl-i İmrân Suresi, 180. Ayet "
+  },
+  {
+    "id": 26,
+    "arabic": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍ لِّأُو۟لِى ٱلْأَلْبَٰبِ",
+    "turkish": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelip gidişinde akl-ı selim sahipleri için gerçekten açık ibretler vardır.",
+    "source": "Âl-i İmrân Suresi, 190. Ayet"
+  },
+  {
+    "id": 27,
+    "arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا",
+    "turkish": "Ey insanlar! Sizi bir tek nefisten yaratan ve ondan da eşini yaratan; ikisinden birçok erkek ve kadın üretip yayan Rabbinize karşı gelmekten sakının.",
+    "source": "Nisâ Suresi, 1. Ayet"
+  },
+  {
+    "id": 28,
+    "arabic": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا",
+    "turkish": "Yetimlerin mallarını haksız yere yiyenler, ancak ve ancak karınlarını doldurasıya ateş yemiş olurlar.",
+    "source": "Nisâ Suresi, 10. Ayet "
+  },
+  {
+    "id": 29,
+    "arabic": "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ",
+    "turkish": "Eğer karı-kocanın arasının açılmasından endişe ederseniz, erkeğin ailesinden bir hakem, kadının ailesinden bir hakem gönderin.",
+    "source": "Nisâ Suresi, 35. Ayet "
+  },
+  {
+    "id": 30,
+    "arabic": "وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ",
+    "turkish": "Allah'a ibadet edin ve ona hiçbir şeyi ortak koşmayın. Ana babaya, akrabaya, yetimlere, yoksullara, yakın komşuya, uzak komşuya iyilik edin.",
+    "source": "Nisâ Suresi, 36. Ayet "
+  },
+  {
+    "id": 31,
+    "arabic": "يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا",
+    "turkish": "O kıyamet günü, Allah'ı inkâr edip Peygamber'e isyan edenler, yer yarılıp içine girmiş olmayı isterler.",
+    "source": "Nisâ Suresi, 42. Ayet "
+  },
+  {
+    "id": 32,
+    "arabic": "إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ",
+    "turkish": "Allah, size, emanetleri mutlaka ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emrediyor.",
+    "source": "Nisâ Suresi, 58. Ayet "
+  },
+  {
+    "id": 33,
+    "arabic": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا",
+    "turkish": "Hayır! Rabbine andolsun ki onlar, aralarında çıkan çekişmeli işlerde seni hakem yapıp, sonra da verdiğin hükme tam bir teslimiyetle boyun eğmedikçe iman etmiş olmazlar.",
+    "source": "Nisâ Suresi, 65. Ayet "
+  },
+  {
+    "id": 34,
+    "arabic": "وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمُ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَ",
+    "turkish": "Kim Allah'a ve Peygambere itaat ederse, işte onlar, Allah'ın kendilerine nimet verdiği peygamberlerle, sıddıklarla, şehidlerle ve iyi kimselerle birliktedirler.",
+    "source": "Nisâ Suresi, 69. Ayet "
+  },
+  {
+    "id": 35,
+    "arabic": "وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا",
+    "turkish": "Size bir selam verildiği zaman, ondan daha güzeliyle veya aynı selamla karşılık verin. Şüphesiz Allah, her şeyin hesabını gereği gibi yapandır.",
+    "source": "Nisâ Suresi, 86. Ayet "
+  },
+  {
+    "id": 36,
+    "arabic": "وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا",
+    "turkish": "Kim bir mümini kasten öldürürse, cezası, içinde ebedi kalacağı cehennemdir. Allah, ona gazap etmiş, lânet etmiş ve onun için büyük bir azap hazırlamıştır.",
+    "source": "Nisâ Suresi, 93. Ayet "
+  },
+  {
+    "id": 37,
+    "arabic": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ",
+    "turkish": "Namazı bitirdiğinizde; ayaktayken, otururken ve yanlarınız üzerindeyken (yatarken) Allah'ı anın.",
+    "source": "Nisâ Suresi, 103. Ayet"
+  },
+  {
+    "id": 38,
+    "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ",
+    "turkish": "Ey iman edenler! Kendiniz, ana babanız ve en yakınlarınızın aleyhine de olsa, Allah için şahitlik yaparak adaleti titizlikle ayakta tutan kimseler olun.",
+    "source": "Nisâ Suresi, 135. Ayet "
+  },
+  {
+    "id": 39,
+    "arabic": "وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُودُوا۟ مَعَهُمْ",
+    "turkish": "Allah'ın âyetlerinin inkâr edildiğini ve onlarla alay edildiğini işittiğiniz zaman, başka bir söze geçmedikleri müddetçe onlarla oturmayın.",
+    "source": "Nisâ Suresi, 140. Ayet "
+  },
+  {
+    "id": 40,
+    "arabic": "لَّا يُحِبُ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+    "turkish": "Allah, zulme uğrayanın dile getirmesi dışında, çirkin sözün açıklanmasını sevmez. Şüphesiz Allah, hakkıyla işitendir, hakkıyla bilendir.",
+    "source": "Nisâ Suresi, 148. Ayet "
+  },
+  {
+    "id": 41,
+    "arabic": "وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ",
+    "turkish": "İyilik ve takva (Allah'a karşı gelmekten sakınma) üzere yardımlaşın. Ama günah ve düşmanlık üzere yardımlaşmayın.",
+    "source": "Mâide Suresi, 2. Ayet"
+  },
+  {
+    "id": 42,
+    "arabic": "ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا",
+    "turkish": "Bugün sizin için dininizi kemale erdirdim. Size nimetimi tamamladım ve sizin için din olarak İslâm'ı seçtim.",
+    "source": "Mâide Suresi, 3. Ayet"
+  },
+  {
+    "id": 43,
+    "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ",
+    "turkish": "Ey iman edenler! Allah için hakkı titizlikle ayakta tutan, adalet ile şahitlik eden kimseler olun. Bir topluma olan kininiz, sakın ha sizi adaletsizliğe itmesin.",
+    "source": "Mâide Suresi, 8. Ayet "
+  },
+  {
+    "id": 44,
+    "arabic": "مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا",
+    "turkish": "Kim, bir insanı, bir can karşılığı veya yeryüzünde bir bozgunculuk çıkarmak dışındaki bir sebeple öldürürse, bütün insanları öldürmüş gibi olur.",
+    "source": "Mâide Suresi, 32. Ayet"
+  },
+  {
+    "id": 45,
+    "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ",
+    "turkish": "Ey iman edenler! Sizden kim dininden dönerse, (bilin ki) Allah onların yerine öyle bir topluluk getirir ki, Allah onları sever, onlar da Allah'ı severler.",
+    "source": "Mâide Suresi, 54. Ayet "
+  },
+  {
+    "id": 46,
+    "arabic": "إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ",
+    "turkish": "Sizin dostunuz ancak Allah'tır, Resûlüdür ve Allah'ın emirlerine boyun eğerek namazı kılan, zekâtı veren mü'minlerdir.",
+    "source": "Mâide Suresi, 55. Ayet "
+  },
+  {
+    "id": 47,
+    "arabic": "لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ ٱلْأَيْمَٰنَ",
+    "turkish": "Allah, boş bulunarak ettiğiniz yeminlerle sizi sorumlu tutmaz. Ama bile bile yaptığınız yeminlerle sizi sorumlu tutar.",
+    "source": "Mâide Suresi, 89. Ayet "
+  },
+  {
+    "id": 48,
+    "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَٰمُ رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
+    "turkish": "Ey iman edenler! İçki, kumar, dikili taşlar ve fal okları ancak şeytan işi birer pisliktir. Onlardan kaçının ki kurtuluşa eresiniz.",
+    "source": "Mâide Suresi, 90. Ayet "
+  },
+  {
+    "id": 49,
+    "arabic": "وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ ۖ إِنَّهُۥ كَانَ فَٰحِشَةً وَسَآءَ سَبِيلًا",
+    "turkish": "Zinaya yaklaşmayın. Çünkü o, son derece çirkin bir iştir ve çok kötü bir yoldur.",
+    "source": "İsrâ Suresi, 32. Ayet"
+  },
+  {
+    "id": 50,
+    "arabic": "وَذَرُوا۟ ظَٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ ۚ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+    "turkish": "Günahın açığını da bırakın, gizlisini de. Çünkü günah kazananlar yaptıkları karşılığında cezalandırılacaklardır.",
+    "source": "En'âm Suresi, 120. Ayet "
+  },
+  {
+    "id": 51,
+    "arabic": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+    "turkish": "Şüphesiz Allah, adaleti, iyilik yapmayı, yakınlara yardım etmeyi emreder; hayâsızlığı, fenalık ve azgınlığı da yasaklar. O, düşünüp tutasınız diye size öğüt veriyor.",
+    "source": "Nahl Suresi, 90. Ayet"
+  },
+  {
+    "id": 52,
+    "arabic": "إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ ﴿٩٩﴾ إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُمْ بِهِ مُشْرِكُونَ ﴿١٠٠﴾",
+    "turkish": "Gerçek şu ki; iman edip yalnız Rablerine tevekkül edenler üzerinde şeytanın hiçbir hâkimiyeti yoktur. Onun hâkimiyeti ancak onu dost edinenler ve onu Allah'a ortak koşanlar üzerindedir.",
+    "source": "Nahl Suresi, 99-100. Ayetler"
+  },
+  {
+    "id": 53,
+    "arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا ۚ إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا فَلَا تَقُلْ لَهُمَا أُفٍّ وَلَا تَنْهَرْهُمَا وَقُلْ لَهُمَا قَوْلًا كَرِيمًا",
+    "turkish": "Rabbin, kendisinden başkasına asla ibadet etmemenizi, anaya babaya iyi davranmanızı kesin olarak emretti. Eğer onlardan biri, ya da her ikisi senin yanında ihtiyarlık çağına ulaşırlarsa, sakın onlara 'öf!' bile deme; onları azarlama; onlara tatlı ve güzel söz söyle.",
+    "source": "İsrâ Suresi, 23. Ayet"
+  },
+  {
+    "id": 54,
+    "arabic": "وَآتِ ذَا الْقُرْبَىٰ حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا ﴿٢٦﴾ إِنَّ الْمُبَذِّرِينَ كَانُوا إِخْوَانَ الشَّيَاطِينِ ۖ وَكَانَ الشَّيْطَانُ لِرَبِّهِ كَفُورًا ﴿٢٧﴾",
+    "turkish": "Akrabaya, yoksula ve yolda kalmışa hakkını ver. Bununla beraber malını saçıp savurma. Çünkü saçıp savuranlar şeytanların kardeşleridir. Şeytan ise Rabbine karşı çok nankördür.",
+    "source": "İsrâ Suresi, 26-27. Ayetler"
+  },
+  {
+    "id": 55,
+    "arabic": "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا",
+    "turkish": "Hakkında bilgin olmayan şeyin peşine düşme. Çünkü kulak, göz ve kalp, bunların hepsi ondan sorumludur.",
+    "source": "İsrâ Suresi, 36. Ayet"
+  },
+  {
+    "id": 56,
+    "arabic": "قُلْ لَوْ أَنْتُمْ تَمْلِكُونَ خَزَائِنَ رَحْمَةِ رَبِّي إِذًا لَأَمْسَكْتُمْ خَشْيَةَ الْإِنْفَاقِ ۚ وَكَانَ الْإِنْسَانُ قَتُورًا",
+    "turkish": "De ki: 'Eğer siz Rabbimin rahmet hazinelerine sahip olsaydınız, o zaman harcanıp bitecek korkusuyla elinizi sıkı tutardınız.' İnsanoğlu zaten çok cimridir.",
+    "source": "İsrâ Suresi, 100. Ayet"
+  },
+  {
+    "id": 57,
+    "arabic": "وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدًا ﴿٢٣﴾ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ وَاذْكُرْ رَبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰ أَنْ يَهْدِيَنِ رَبِّي لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا ﴿٢٤﴾",
+    "turkish": "Hiçbir şey için, 'Bunu yarın kesinlikle yapacağım' deme. Ancak, 'Allah dilerse (yapacağım)' de. Unuttuğun zaman Rabbini an ve 'Umarım Rabbim beni, doğruya daha yakın olana iletir' de.",
+    "source": "Kehf Suresi, 23-24. Ayetler"
+  },
+  {
+    "id": 58,
+    "arabic": "فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلَاةَ وَاتَّبَعُوا الشَّهَوَاتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+    "turkish": "Onlardan sonra, namazı zayi eden, şehvetlerine uyan bir nesil geldi. Onlar bu tutumlarından ötürü büyük bir azaba çarptırılacaklardır.",
+    "source": "Meryem Suresi, 59. Ayet"
+  },
+  {
+    "id": 59,
+    "arabic": "وَمَنْ أَعْرَضَ عَنْ ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ",
+    "turkish": "Kim benim zikrimden yüz çevirirse, mutlaka onun için sıkıntılı bir geçim vardır. Kıyamet günü de onu kör olarak haşrederiz.",
+    "source": "Tâhâ Suresi, 124. Ayet"
+  },
+  {
+    "id": 60,
+    "arabic": "لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا ۚ فَسُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ",
+    "turkish": "Eğer yerde ve gökte Allah'tan başka ilâhlar olsaydı, yer ve gök bozulur giderdi. Arş'ın Rabbi olan Allah, onların nitelemelerinden uzaktır.",
+    "source": "Enbiyâ Suresi, 22. Ayet"
+  },
+  {
+    "id": 61,
+    "arabic": "وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْئًا ۖ وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ",
+    "turkish": "Biz kıyamet günü için adalet terazileri kurarız. Artık hiç kimseye hiçbir şekilde haksızlık edilmez. Yapılan iş bir hardal tanesi ağırlığınca da olsa, onu getirip ortaya koyarız. Hesap görücü olarak biz yeteriz.",
+    "source": "Enbiyâ Suresi, 47. Ayet"
+  },
+  {
+    "id": 62,
+    "arabic": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ ﴿١﴾ الَّذِينَ هُمْ فِي صَلَاتِهِمْ خَاشِعُونَ ﴿٢﴾ وَالَّذِينَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ ﴿٣﴾ وَالَّذِينَ هُمْ لِلزَّكَاةِ فَاعِلُونَ ﴿٤﴾ وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حافِظُونَ ﴿٥﴾",
+    "turkish": "Müminler gerçekten kurtuluşa ermişlerdir. Onlar ki, namazlarında derin saygı içindedirler. Onlar ki, faydasız işlerden ve boş sözlerden yüz çevirirler. Onlar ki, zekâtı öderler. Onlar ki, iffetlerini korurlar.",
+    "source": "Mü'minûn Suresi, 1-5. Ayetler"
+  },
+  {
+    "id": 63,
+    "arabic": "وَلَا يَأْتَلِ أُولُو الْفَضْلِ مِنْكُمْ وَالسَّعَةِ أَنْ يُؤْتُوا أُولِي الْقُرْبَىٰ وَالْمَسَاكِينَ وَالْمُهَاجِرِينَ فِي سَبِيلِ اللَّهِ ۖ وَلْيَعْفُوا وَلْيَصْفَحُوا ۗ أَلَا تُحِبُّونَ أَنْ يَغْفِرَ اللَّهُ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+    "turkish": "İçinizden lütuf ve servet sahibi olanlar, yakınlarına, yoksullara ve Allah yolunda hicret edenlere (mallarından) vermeyeceklerine dair yemin etmesinler. Bağışlasınlar, hoş görsünler. Allah'ın sizi bağışlamasını istemez misiniz? Allah çok bağışlayandır, çok merhamet edendir.",
+    "source": "Nûr Suresi, 22. Ayet"
+  },
+  {
+    "id": 64,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+    "turkish": "Ey iman edenler! Kendi evlerinizden başka evlere, sahiplerinden izin alıp onlara selam vermeden girmeyin. Bu, sizin için daha hayırlıdır. Ola ki düşünürsünüz.",
+    "source": "Nûr Suresi, 27. Ayet"
+  },
+  {
+    "id": 65,
+    "arabic": "قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ اللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ",
+    "turkish": "Mümin erkeklere söyle, gözlerini haramdan sakınsınlar ve iffetlerini korusunlar. Bu, onlar için daha nezih bir davranıştır. Şüphesiz Allah, yaptıkları her şeyden hakkıyla haberdardır.",
+    "source": "Nûr Suresi, 30. Ayet"
+  },
+  {
+    "id": 66,
+    "arabic": "فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ ﴿٣٦﴾ رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ ۙ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ ﴿٣٧﴾",
+    "turkish": "Allah'ın, yüceltilmesine ve içlerinde adının anılmasına izin verdiği evlerde (mescitlerde) hiçbir ticaretin ve alışverişin kendilerini Allah'ı anmaktan, namazı kılmaktan, zekâtı vermekten alıkoymadığı birtakım adamlar, sabah akşam O'nu tesbih ederler. Onlar, kalplerin ve gözlerin dikilip kalacağı bir günden korkarlar.",
+    "source": "Nûr Suresi, 36-37. Ayetler"
+  },
+  {
+    "id": 67,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ",
+    "turkish": "Ey iman edenler! Ellerinizin altında bulunanlar ile henüz ergenlik çağına girmemiş olanlar, şu üç vakitte yanınıza gireceklerinde sizden izin istesinler.",
+    "source": "Nûr Suresi, 58. Ayet"
+  },
+  {
+    "id": 68,
+    "arabic": "وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا ﴿٢٧﴾ يَا وَيْلَتَىٰ لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا ﴿٢٨﴾",
+    "turkish": "O gün, zalim kimse ellerini ısırıp şöyle der: 'Keşke Peygamberle beraber bir yol tutsaydım. Yazıklar olsun bana, keşke falanı dost edinmeseydim!'",
+    "source": "Furkân Suresi, 27-28. Ayetler"
+  },
+  {
+    "id": 69,
+    "arabic": "وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ وَلَا يقتلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَلَا يَزْنُونَ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا",
+    "turkish": "Onlar, Allah ile beraber başka bir ilâha tapmazlar; haksız yere Allah'ın haram kıldığı cana kıymazlar ve zina etmezler. Kim bunları yaparsa cezasına çarptırılır.",
+    "source": "Furkân Suresi, 68. Ayet"
+  },
+  {
+    "id": 70,
+    "arabic": "وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ ۖ وَلَا تَنْسَ نَصِيبَكَ مِنَ الدُّنْيا ۖ وَأَحْسِنْ كَمَا أَحْسَنَ اللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ الْفَسَادَ فِي الْأَرْضِ ۖ إِنَّ اللَّهَ لَا يُحِبُّ الْمُفْسِدِينَ",
+    "turkish": "Allah'ın sana verdiğinden (O'nun yolunda harcayarak) ahiret yurdunu iste; ama dünyadan nasibini de unutma. Allah sana ihsan ettiği gibi, sen de (insanlara) iyilik et. Yeryüzünde bozgunculuk isteme; çünkü Allah bozguncuları sevmez.",
+    "source": "Kasas Suresi, 77. Ayet"
+  },
+  {
+    "id": 71,
+    "arabic": "وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+    "turkish": "Bu dünya hayatı ancak bir eğlence ve oyundan ibarettir. Ahiret yurduna gelince, işte gerçek hayat odur. Keşke bilselerdi!",
+    "source": "Ankebût Suresi, 64. Ayet"
+  },
+  {
+    "id": 72,
+    "arabic": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+    "turkish": "Kendileriyle huzur bulasınız diye size kendi türünüzden eşler yaratması ve aranızda bir sevgi ve merhamet var etmesi de O'nun (varlığının ve kudretinin) delillerindendir. Şüphesiz bunda düşünen bir toplum için dersler vardır.",
+    "source": "Rûm Suresi, 21. Ayet"
+  },
+  {
+    "id": 73,
+    "arabic": "وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِلْعَالِمِينَ",
+    "turkish": "Göklerin ve yerin yaratılması, dillerinizin ve renklerinizin farklı olması da O'nun delillerindendir. Şüphesiz bunda bilenler için ibretler vardır.",
+    "source": "Rûm Suresi, 22. Ayet"
+  },
+  {
+    "id": 74,
+    "arabic": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+    "turkish": "Küçümseyerek insanlardan yüz çevirme ve yeryüzünde böbürlenerek yürüme. Zira Allah, kendini beğenmiş övünüp duran kimseleri asla sevmez.",
+    "source": "Lokmân Suresi, 18. Ayet"
+  },
+  {
+    "id": 75,
+    "arabic": "ادْعُوهُمْ لِآبَائِهِمْ هُوَ أَقْسَطُ عِنْدَ اللَّهِ ۚ فَإِنْ لَمْ تَعْلَمُوا آبَاءَهُمْ فَإِخْوَانُكُمْ فِي الدِّينِ وَمَوَالِيكُمْ",
+    "turkish": "Onları (evlatlıkları) babalarına nispet ederek çağırın. Bu, Allah katında daha adalettir. Eğer babalarını bilmiyorsanız, onlar sizin din kardeşleriniz ve dostlarınızdır.",
+    "source": "Ahzâb Suresi, 5. Ayet"
+  },
+  {
+    "id": 76,
+    "arabic": "لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا",
+    "turkish": "Andolsun, Allah'ın Resûlünde sizin için; Allah'a ve ahiret gününe kavuşmayı uman ve Allah'ı çok zikreden kimseler için güzel bir örnek vardır.",
+    "source": "Ahzâb Suresi, 21. Ayet"
+  },
+  {
+    "id": 77,
+    "arabic": "وَقَرْنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ ۖ وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ وَرَسُولَهُ",
+    "turkish": "Evlerinizde oturun. Önceki cahiliye dönemi kadınlarının açılıp saçıldığı gibi siz de açılıp saçılmayın. Namazı kılın, zekâtı verin. Allah'a ve Resûlüne itaat edin.",
+    "source": "Ahzâb Suresi, 33. Ayet"
+  },
+  {
+    "id": 78,
+    "arabic": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا",
+    "turkish": "Allah ve Resûlü bir işe hükmettiği zaman, mümin bir erkek ve mümin bir kadının o işi kendi isteklerine göre seçme hakkı yoktur. Kim Allah'a ve Resûlüne isyan ederse, apaçık bir sapıklığa düşmüş olur.",
+    "source": "Ahzâb Suresi, 36. Ayet"
+  },
+  {
+    "id": 79,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا ﴿٧٠﴾ يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا ﴿٧١﴾",
+    "turkish": "Ey iman edenler! Allah'a karşı gelmekten sakının ve doğru söz söyleyin ki, Allah sizin işlerinizi düzeltsin ve günahlarınızı bağışlasın. Kim Allah'a ve Resûlüne itaat ederse, muhakkak büyük bir başarıya ulaşmıştır.",
+    "source": "Ahzâb Suresi, 70-71. Ayetler"
+  },
+  {
+    "id": 80,
+    "arabic": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۚ وَإِنْ تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَيْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰ",
+    "turkish": "Hiçbir günahkâr, başkasının günah yükünü yüklenmez. Yükü ağır gelen kimse, onu taşıması için başkasını çağırsa, bu çağırdığı akrabası da olsa, onun yükünden hiçbir şey taşınmaz.",
+    "source": "Fâtır Suresi, 18. Ayet"
+  },
+  {
+    "id": 81,
+    "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+    "turkish": "De ki: 'Ey kendilerinin aleyhine aşırı giden kullarım! Allah'ın rahmetinden ümidinizi kesmeyin. Şüphesiz Allah, bütün günahları affeder. Çünkü O, çok bağışlayandır, çok merhamet edendir.'",
+    "source": "Zümer Suresi, 53. Ayet"
+  },
+  {
+    "id": 82,
+    "arabic": "الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا",
+    "turkish": "Arş'ı yüklenenler ve onun çevresinde bulunanlar, Rablerini hamd ile tesbih ederler, O'na inanırlar ve müminler için bağışlanma dilerler.",
+    "source": "Mü'min (Ğâfir) Suresi, 7. Ayet"
+  },
+  {
+    "id": 83,
+    "arabic": "وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۚ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَاَنَّهُ وَلِيٌّ حَمِيمٌ",
+    "turkish": "İyilikle kötülük bir olmaz. Sen (kötülüğü) en güzel olanla sav. O zaman bir de bakarsın ki, seninle arasında düşmanlık bulunan kimse sımsıcak bir dost oluvermiştir.",
+    "source": "Fussilet Suresi, 34. Ayet"
+  },
+  {
+    "id": 84,
+    "arabic": "وَمَا أَصَابَكُمْ مِنْ مُصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَنْ كَثِيرٍ",
+    "turkish": "Başınıza her ne musibet gelirse, kendi yaptıklarınız yüzündendir. O yine de çoğunu affeder.",
+    "source": "Şûrâ Suresi, 30. Ayet"
+  },
+  {
+    "id": 85,
+    "arabic": "أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ ۚ نَحْنُ قَسَمْنَا بَيْنَهُمْ مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا",
+    "turkish": "Rabbinin rahmetini onlar mı paylaştırıyorlar? Dünya hayatında onların geçimliklerini aralarında biz paylaştırdık.",
+    "source": "Zuhruf Suresi, 32. Ayet"
+  },
+  {
+    "id": 86,
+    "arabic": "وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ",
+    "turkish": "Kim Rahmân'ın zikrini görmezlikten gelirse, biz onun başına bir şeytan sararız; artık o, onun ayrılmaz dostu olur.",
+    "source": "Zuhruf Suresi, 36. Ayet"
+  },
+  {
+    "id": 87,
+    "arabic": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ",
+    "turkish": "Takva sahiplerine vaad edilen cennetin durumu şöyledir: İçinde bozulmayan sudan ırmaklar vardır.",
+    "source": "Muhammed Suresi, 15. Ayet"
+  },
+  {
+    "id": 88,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ أَنْ يَكُونُوا خَيْرًا مِنْهُمْ",
+    "turkish": "Ey iman edenler! Bir topluluk diğer bir toplulukla alay etmesin. Belki de onlar kendilerinden daha iyidirler.",
+    "source": "Hucurât Suresi, 11. Ayet"
+  },
+  {
+    "id": 89,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا",
+    "turkish": "Ey iman edenler! Zannın çoğundan sakının. Çünkü zannın bir kısmı günahtır. Birbirinizin kusurlarını ve mahremiyetlerini araştırmayın. Birbirinizin gıybetini yapmayın.",
+    "source": "Hucurât Suresi, 12. Ayet"
+  },
+  {
+    "id": 90,
+    "arabic": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+    "turkish": "Şüphesiz hiçbir günahkâr, başkasının günah yükünü yüklenmez.",
+    "source": "Necm Suresi, 38. Ayet"
+  },
+  {
+    "id": 91,
+    "arabic": "وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَىٰ",
+    "turkish": "İnsan için ancak çalıştığının karşılığı vardır.",
+    "source": "Necm Suresi, 39. Ayet"
+  },
+  {
+    "id": 92,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ﴿٢﴾ كَبُرَ مَقْتًا عِنْدَ اللَّهِ أَنْ تَقُولُوا مَا لَا تَفْعَلُونَ ﴿٣﴾",
+    "turkish": "Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz? Yapmayacağınız şeyleri söylemeniz, Allah katında büyük bir nefretle karşılanır.",
+    "source": "Saff Suresi, 2-3. Ayetler"
+  },
+  {
+    "id": 93,
+    "arabic": "فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِعُوا وَأَنْفِقُوا خَيْرًا لِأَنْفُسِكُمْ",
+    "turkish": "O halde gücünüz yettiğince Allah'a karşı gelmekten sakının. Dinleyin, itaat edin ve kendi iyiliğiniz için infak edin.",
+    "source": "Teğâbün Suresi, 16. Ayet"
+  },
+  {
+    "id": 94,
+    "arabic": "وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا ﴿٢﴾ وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ",
+    "turkish": "Kim Allah'a karşı gelmekten sakınırsa, Allah ona bir çıkış yolu açar ve onu beklemediği yerden rızıklandırır.",
+    "source": "Talâk Suresi, 2-3. Ayetler"
+  },
+  {
+    "id": 95,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ",
+    "turkish": "Ey iman edenler! Kendinizi ve ailenizi yakıtı insanlar ve taşlar olan ateşten koruyun.",
+    "source": "Tahrîm Suresi, 6. Ayet"
+  },
+  {
+    "id": 96,
+    "arabic": "إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا ﴿١٩﴾ إِذَا مَسَّهُ الشَّرُّ جَزُوعًا ﴿٢٠﴾ وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا ﴿٢١﴾",
+    "turkish": "Gerçekten insan, pek hırslı (ve sabırsız) yaratılmıştır. Kendisine kötülük dokunduğu zaman sızlanır; kendisine hayır dokunduğu vakit ise cimrileşir.",
+    "source": "Meâric Suresi, 19-21. Ayetler"
+  },
+  {
+    "id": 97,
+    "arabic": "مَا سَلَكَكُمْ فِي سَقَرَ ﴿٤٢﴾ قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ ﴿٤٣﴾",
+    "turkish": "(Cennettekiler günahkârlara sorarlar:) 'Sizi bu yakıcı ateşe ne sürükledi?' Onlar derler ki: 'Biz namaz kılanlardan değildik.'",
+    "source": "Müddessir Suresi, 42-43. Ayetler"
+  },
+  {
+    "id": 98,
+    "arabic": "وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا ﴿٨﴾ إِنَّمَا نُطْعِمُكُمْ لِوجْهِ اللَّهِ لَا نُرِيدُ مِنْكُمْ جَزَاءً وَلَا شُكُورًا ﴿٩﴾",
+    "turkish": "Onlar, seve seve yemeği yoksula, yetime ve esire yedirirler. (Ve şöyle derler:) 'Biz size sırf Allah rızası için yediriyoruz. Sizden ne bir karşılık ne de bir teşekkür bekliyoruz.'",
+    "source": "İnsân Suresi, 8-9. Ayetler"
+  },
+  {
+    "id": 99,
+    "arabic": "وَيْلٌ لِلْمُطَفِّفِينَ ﴿١﴾ الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ ﴿٢﴾ وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ ﴿٣﴾",
+    "turkish": "Ölçüde ve tartıda hile yapanların vay haline! Onlar, insanlardan (bir şey) ölçüp aldıkları zaman tam alırlar; fakat kendileri onlara bir şey ölçüp veya tartıp verdikleri zaman eksik verirler.",
+    "source": "Mutaffifîn Suresi, 1-3. Ayetler"
+  },
+  {
+    "id": 100,
+    "arabic": "وَيْلٌ لِكُلِّ هُمَزةٍ لُمَزَةٍ ﴿١﴾ الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ ﴿٢﴾",
+    "turkish": "Arkadan çekiştiren, ayıp kusur arayan herkesin vay haline! O ki, mal yığmış ve onu sayıp durmuştur.",
+    "source": "Hümeze Suresi, 1-2. Ayetler"
+  },
+{
+    "id": 101,
+    "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ",
+    "turkish": "Allah, bir kimseyi ancak gücünün yettiği şeyle yükümlü kılar. Onun kazandığı iyilik kendi yararına, kötülük de kendi zararınadır.",
+    "source": "Bakara Suresi, 286. Ayet"
+  },
+  {
+    "id": 102,
+    "arabic": "وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا",
+    "turkish": "Hep birlikte Allah'ın ipine (İslâm'a) sımsıkı sarılın; parçalanıp bölünmeyin.",
+    "source": "Âl-i İmrân Suresi, 103. Ayet"
+  },
+  {
+    "id": 103,
+    "arabic": "وَلْتَكُنْ مِنْكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنْكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+    "turkish": "Sizden, hayra çağıran, iyiliği emreden ve kötülükten men eden bir topluluk bulunsun. İşte kurtuluşa erenler onlardır.",
+    "source": "Âl-i İmrân Suresi, 104. Ayet"
+  },
+  {
+    "id": 104,
+    "arabic": "الَّذِينَ يُنْفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ",
+    "turkish": "Onlar bollukta da darlıkta da Allah yolunda harcarlar, öfkelerini yenerler, insanları affederler. Allah, iyilik yapanları sever.",
+    "source": "Âl-i İmrân Suresi, 134. Ayet"
+  },
+  {
+    "id": 105,
+    "arabic": "فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ",
+    "turkish": "Allah'ın rahmeti sayesinde sen onlara karşı yumuşak davrandın. Eğer kaba, katı yürekli olsaydın, onlar senin etrafından dağılıp giderlerdi.",
+    "source": "Âl-i İmrân Suresi, 159. Ayet"
+  },
+  {
+    "id": 106,
+    "arabic": "الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ",
+    "turkish": "Onlar ayaktayken, otururken ve yanları üzerine yatarken Allah'ı anarlar; göklerin ve yerin yaratılışı hakkında derin derin düşünürler.",
+    "source": "Âl-i İmrân Suresi, 191. Ayet"
+  },
+  {
+    "id": 107,
+    "arabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا",
+    "turkish": "Ey insanlar! Sizi bir tek nefisten yaratan ve ondan da eşini yaratan Rabbinize karşı gelmekten sakının.",
+    "source": "Nisâ Suresi, 1. Ayet"
+  },
+  {
+    "id": 108,
+    "arabic": "وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ",
+    "turkish": "Allah'a ibadet edin ve O'na hiçbir şeyi ortak koşmayın. Ana babaya, akrabaya, yetimlere, yoksullara, yakın komşuya, uzak komşuya iyi davranın.",
+    "source": "Nisâ Suresi, 36. Ayet"
+  },
+  {
+    "id": 109,
+    "arabic": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ",
+    "turkish": "Allah, size emanetleri ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emreder.",
+    "source": "Nisâ Suresi, 58. Ayet"
+  },
+  {
+    "id": 110,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنْفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ",
+    "turkish": "Ey iman edenler! Kendiniz, ana babanız ve en yakınlarınızın aleyhine de olsa, Allah için şahitlik yaparak adaleti titizlikle ayakta tutan kimseler olun.",
+    "source": "Nisâ Suresi, 135. Ayet"
+  },
+  {
+    "id": 111,
+    "arabic": "وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ",
+    "turkish": "İyilik ve takva (Allah'a karşı gelmekten sakınma) üzere yardımlaşın. Günah ve düşmanlık üzere yardımlaşmayın.",
+    "source": "Mâide Suresi, 2. Ayet"
+  },
+  {
+    "id": 112,
+    "arabic": "وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ",
+    "turkish": "Bir topluluğa olan kininiz, sizi adaletsizliğe sevk etmesin. Adaletli olun; bu takvaya daha yakındır.",
+    "source": "Mâide Suresi, 8. Ayet"
+  },
+  {
+    "id": 113,
+    "arabic": "مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا",
+    "turkish": "Kim, bir cana kıymayan veya yeryüzünde bozgunculuk çıkarmayan bir kimseyi öldürürse, bütün insanları öldürmüş gibi olur.",
+    "source": "Mâide Suresi, 32. Ayet"
+  },
+  {
+    "id": 114,
+    "arabic": "قُلْ تَعَالَوْا أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا",
+    "turkish": "De ki: 'Gelin, Rabbinizin size neleri haram kıldığını okuyayım: O'na hiçbir şeyi ortak koşmayın, ana babaya iyilik edin...'",
+    "source": "En'âm Suresi, 151. Ayet"
+  },
+  {
+    "id": 115,
+    "arabic": "وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ ۖ وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ",
+    "turkish": "Yetimin malına, rüştüne erinceye kadar ancak en güzel şekilde yaklaşın. Ölçüyü ve tartıyı adaletle tam yapın.",
+    "source": "En'âm Suresi, 152. Ayet"
+  },
+  {
+    "id": 116,
+    "arabic": "قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ",
+    "turkish": "De ki: 'Şüphesiz benim namazım, kurbanım, hayatım ve ölümüm hepsi âlemlerin Rabbi Allah içindir.'",
+    "source": "En'âm Suresi, 162. Ayet"
+  },
+  {
+    "id": 117,
+    "arabic": "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+    "turkish": "Ey Âdemoğulları! Her mescitte zinetinizi takının (temiz ve güzel giyinin). Yiyin, için fakat israf etmeyin. Çünkü Allah israf edenleri sevmez.",
+    "source": "A'râf Suresi, 31. Ayet"
+  },
+  {
+    "id": 118,
+    "arabic": "خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَأَعْرِضْ عَنِ الْجَاهِلِينَ",
+    "turkish": "Sen af yolunu tut, iyiliği emret ve cahillerden yüz çevir.",
+    "source": "A'râf Suresi, 199. Ayet"
+  },
+  {
+    "id": 119,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ",
+    "turkish": "Ey iman edenler! Allah'a karşı gelmekten sakının ve doğrularla beraber olun.",
+    "source": "Tevbe Suresi, 119. Ayet"
+  },
+  {
+    "id": 120,
+    "arabic": "قُلِ انْظُرُوا مَاذَا فِي السَّمَاوَاتِ وَالْأَرْضِ",
+    "turkish": "De ki: 'Göklerde ve yerde neler var, bir bakın (da ibret alın)!'",
+    "source": "Yûnus Suresi, 101. Ayet"
+  },
+  {
+    "id": 121,
+    "arabic": "فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَنْ تَابَ مَعَكَ وَلَا تَطْغَوْا",
+    "turkish": "Öyle ise emrolunduğun gibi dosdoğru ol. Beraberindeki tövbe edenler de dosdoğru olsunlar. Hak ve adalet ölçülerini aşmayın.",
+    "source": "Hûd Suresi, 112. Ayet"
+  },
+  {
+    "id": 122,
+    "arabic": "إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ",
+    "turkish": "Şüphesiz ki, bir toplum kendi durumunu değiştirmedikçe Allah da onların durumunu değiştirmez.",
+    "source": "Ra'd Suresi, 11. Ayet"
+  },
+  {
+    "id": 123,
+    "arabic": "الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "turkish": "Onlar, iman edenler ve kalpleri Allah'ı anmakla huzur bulanlardır. Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur.",
+    "source": "Ra'd Suresi, 28. Ayet"
+  },
+  {
+    "id": 124,
+    "arabic": "لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ",
+    "turkish": "Andolsun, eğer şükrederseniz elbette size nimetimi artırırım. Eğer nankörlük ederseniz, hiç şüphesiz azabım çok şiddetlidir.",
+    "source": "İbrâhîm Suresi, 7. Ayet"
+  },
+  {
+    "id": 125,
+    "arabic": "وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ",
+    "turkish": "Sakın, Allah'ı zalimlerin yaptıklarından habersiz sanma!",
+    "source": "İbrâhîm Suresi, 42. Ayet"
+  },
+  {
+    "id": 126,
+    "arabic": "وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ",
+    "turkish": "Yoksulluk korkusuyla çocuklarınızın canına kıymayın. Onları da sizi de biz rızıklandırıyoruz.",
+    "source": "İsrâ Suresi, 31. Ayet"
+  },
+  {
+    "id": 127,
+    "arabic": "وَلَا تَقْرَبُوا الزِّنَا ۖ إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا",
+    "turkish": "Zinaya yaklaşmayın. Çünkü o, son derece çirkin bir iştir ve çok kötü bir yoldur.",
+    "source": "İsrâ Suresi, 32. Ayet"
+  },
+  {
+    "id": 128,
+    "arabic": "وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ",
+    "turkish": "Haklı bir sebep olmadıkça, Allah'ın haram kıldığı cana kıymayın.",
+    "source": "İsrâ Suresi, 33. Ayet"
+  },
+  {
+    "id": 129,
+    "arabic": "وَأَوْفُوا بِالْعَهْدِ ۖ إِنَّ الْعَهْدَ كَانَ مَسْئُولًا",
+    "turkish": "Verdiğiniz sözü yerine getirin. Çünkü verilen söz, sorumluluk gerektirir.",
+    "source": "İsrâ Suresi, 34. Ayet"
+  },
+  {
+    "id": 130,
+    "arabic": "وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ",
+    "turkish": "Ölçtüğünüz zaman tam ölçün ve doğru terazi ile tartın.",
+    "source": "İsrâ Suresi, 35. Ayet"
+  },
+  {
+    "id": 131,
+    "arabic": "وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّكَ لَنْ تَخْرِقَ الْأَرْضَ وَلَنْ تَبْلُغَ الْجِبَالَ طُولًا",
+    "turkish": "Yeryüzünde böbürlenerek yürüme. Çünkü sen ne yeri yarabilirsin, ne de boyca dağlara erişebilirsin.",
+    "source": "İsrâ Suresi, 37. Ayet"
+  },
+  {
+    "id": 132,
+    "arabic": "وَقُلْ لِعِبَادِي يَقُولُوا الَّتِي هي أَحْسَنُ ۚ إِنَّ الشَّيْطَانَ يَنْزَغُ بَيْنَهُمْ",
+    "turkish": "Kullarıma söyle, sözün en güzelini söylesinler. Sonra şeytan aralarını bozar.",
+    "source": "İsrâ Suresi, 53. Ayet"
+  },
+  {
+    "id": 133,
+    "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ",
+    "turkish": "Biz Kur'an'dan, müminler için şifa ve rahmet olacak şeyler indiriyoruz.",
+    "source": "İsrâ Suresi, 82. Ayet"
+  },
+  {
+    "id": 134,
+    "arabic": "فَمَنْ كَانَ يَرْجُو لِقَاءَ رَبِّهِ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا",
+    "turkish": "Artık her kim Rabbine kavuşmayı umuyorsa, salih bir amel işlesin ve Rabbine ibadette hiçbir şeyi ortak koşmasın.",
+    "source": "Kehf Suresi, 110. Ayet"
+  },
+  {
+    "id": 135,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا رَبَّكُمْ وَافْعَلُوا الْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ",
+    "turkish": "Ey iman edenler! Rükû edin, secde edin, Rabbinize kulluk edin ve hayır işleyin ki kurtuluşa eresiniz.",
+    "source": "Hac Suresi, 77. Ayet"
+  },
+  {
+    "id": 136,
+    "arabic": "وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا",
+    "turkish": "Rahmân'ın kulları, yeryüzünde vakarla yürüyen, cahiller kendilerine laf attığı zaman, 'Selam!' deyip geçen kimselerdir.",
+    "source": "Furkân Suresi, 63. Ayet"
+  },
+  {
+    "id": 137,
+    "arabic": "وَالَّذِينَ إِذَا أَنْفَقُوا لَمْ يُسْرِفُوا وَلَمْ يَقْتُرُوا وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا",
+    "turkish": "Onlar, harcadıklarında ne israf ne de cimrilik edenlerdir; onların harcamaları bu ikisi arası dengeli bir yoldur.",
+    "source": "Furkân Suresi, 67. Ayet"
+  },
+  {
+    "id": 138,
+    "arabic": "تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا",
+    "turkish": "İşte ahiret yurdu! Biz onu yeryüzünde büyüklük taslamayan ve bozgunculuk çıkarmayanlara has kılarız.",
+    "source": "Kasas Suresi, 83. Ayet"
+  },
+  {
+    "id": 139,
+    "arabic": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا",
+    "turkish": "Hakka yönelen bir kimse olarak yüzünü dine çevir. Allah'ın insanları üzerinde yarattığı fıtrata sımsıkı tutun.",
+    "source": "Rûm Suresi, 30. Ayet"
+  },
+  {
+    "id": 140,
+    "arabic": "يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+    "turkish": "Yavrucuğum! Allah'a ortak koşma. Çünkü şirk, gerçekten büyük bir zulümdür.",
+    "source": "Lokmân Suresi, 13. Ayet"
+  },
+  {
+    "id": 141,
+    "arabic": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ",
+    "turkish": "Biz insana ana babasına iyi davranmasını emrettik. Anası onu zorluk üstüne zorlukla taşımıştır. Sütten kesilmesi de iki yıl içindedir. (Biz insana): 'Bana ve ana babana şükret' dedik.",
+    "source": "Lokmân Suresi, 14. Ayet"
+  },
+  {
+    "id": 142,
+    "arabic": "يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنْكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ",
+    "turkish": "Yavrucuğum! Namazı dosdoğru kıl, iyiliği emret, kötülükten alıkoy ve başına gelen musibetlere karşı sabret.",
+    "source": "Lokmân Suresi, 17. Ayet"
+  },
+  {
+    "id": 143,
+    "arabic": "وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِنْ صَوْتِكَ ۚ إِنَّ أَنْكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ",
+    "turkish": "Yürüyüşünde tabii ol, sesini alçalt. Şüphesiz seslerin en çirkini eşeklerin sesidir.",
+    "source": "Lokmân Suresi, 19. Ayet"
+  },
+  {
+    "id": 144,
+    "arabic": "إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَالْقَانِتِينَ وَالْقَانِتَاتِ وَالصَّادِقِينَ وَالصَّادِقَاتِ",
+    "turkish": "Şüphesiz Müslüman erkeklerle Müslüman kadınlar, mümin erkeklerle mümin kadınlar, itaat eden erkeklerle itaat eden kadınlar, doğru erkeklerle doğru kadınlar (için Allah bağışlanma ve büyük bir mükafat hazırlamıştır).",
+    "source": "Ahzâb Suresi, 35. Ayet"
+  },
+  {
+    "id": 145,
+    "arabic": "مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ وَلَٰكِنْ رَسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ",
+    "turkish": "Muhammed, sizin erkeklerinizden hiçbirinin babası değildir. Fakat o, Allah'ın Resûlü ve peygamberlerin sonuncusudur.",
+    "source": "Ahzâb Suresi, 40. Ayet"
+  },
+  {
+    "id": 146,
+    "arabic": "قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُولُو الْأَلْبَابِ",
+    "turkish": "De ki: 'Hiç bilenlerle bilmeyenler bir olur mu?' Ancak akıl sahipleri öğüt alırlar.",
+    "source": "Zümer Suresi, 9. Ayet"
+  },
+  {
+    "id": 147,
+    "arabic": "الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ",
+    "turkish": "Onlar ki, sözü dinlerler ve onun en güzeline uyarlar.",
+    "source": "Zümer Suresi, 18. Ayet"
+  },
+  {
+    "id": 148,
+    "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+    "turkish": "Rabbiniz şöyle dedi: 'Bana dua edin, duanıza cevap vereyim.'",
+    "source": "Mü'min (Ğâfir) Suresi, 60. Ayet"
+  },
+  {
+    "id": 149,
+    "arabic": "وَمَنْ أَحْسَنُ قَوْلًا مِمَّنْ دَعَا إِلَى اللَّهِ وَعَمِلَ صَالِحًا وَقَالَ إِنَّنِي مِنَ الْمُسْلِمِينَ",
+    "arabic": "Allah'a çağıran, salih amel işleyen ve 'Kuşkusuz ben Müslümanlardanım' diyenden daha güzel sözlü kim olabilir?",
+    "source": "Fussilet Suresi, 33. Ayet"
+  },
+  {
+    "id": 150,
+    "arabic": "أَمْ لَهُمْ نَصِيبٌ مِنَ الْمُلْكِ فَإِذًا لَا يُؤْتُونَ النَّاسَ نَقِيرًا",
+    "turkish": "Yoksa onların mülkten (iktidardan) bir payları mı var? Öyle olsaydı, insanlara bir çekirdek filizi (kadar bir şey) bile vermezlerdi.",
+    "source": "Nisâ Suresi, 53. Ayet"
+  },{
+    "id": 151,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ",
+    "turkish": "Ey iman edenler! Eğer bir fasık size bir haber getirirse, onun doğruluğunu araştırın. Yoksa bilmeden bir topluluğa kötülük edersiniz de sonra yaptığınıza pişman olursunuz.",
+    "source": "Hucurât Suresi, 6. Ayet"
+  },
+  {
+    "id": 152,
+    "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+    "turkish": "Müminler ancak kardeştirler. Öyleyse kardeşlerinizin arasını düzeltin ve Allah'a karşı gelmekten sakının ki size merhamet edilsin.",
+    "source": "Hucurât Suresi, 10. Ayet"
+  },
+  {
+    "id": 153,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ أَنْ يَكُونُوا خَيْرًا مِنْهُمْ",
+    "turkish": "Ey iman edenler! Bir topluluk diğer bir toplulukla alay etmesin. Belki onlar kendilerinden daha iyidirler.",
+    "source": "Hucurât Suresi, 11. Ayet"
+  },
+  {
+    "id": 154,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا",
+    "turkish": "Ey iman edenler! Zannın birçoğundan sakının. Çünkü zannın bir kısmı günahtır. Birbirinizin kusurlarını ve mahremiyetini araştırmayın. Birbirinizin gıybetini yapmayın.",
+    "source": "Hucurât Suresi, 12. Ayet"
+  },
+  {
+    "id": 155,
+    "arabic": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ",
+    "turkish": "Ey insanlar! Şüphe yok ki, biz sizi bir erkek ve bir dişiden yarattık ve birbirinizi tanımanız için sizi boylara ve kabilelere ayırdık. Allah katında en değerli olanınız, O'na karşı gelmekten en çok sakınanınızdır.",
+    "source": "Hucurât Suresi, 13. Ayet"
+  },
+  {
+    "id": 156,
+    "arabic": "وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَىٰ",
+    "turkish": "İnsan için ancak çalıştığının karşılığı vardır.",
+    "source": "Necm Suresi, 39. Ayet"
+  },
+  {
+    "id": 157,
+    "arabic": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+    "turkish": "İyiliğin karşılığı, yalnız iyilik değil midir?",
+    "source": "Rahmân Suresi, 60. Ayet"
+  },
+  {
+    "id": 158,
+    "arabic": "اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ",
+    "turkish": "Bilin ki, dünya hayatı ancak bir oyun, bir eğlence, bir süs, aranızda bir övünme (vesilesidir).",
+    "source": "Hadîd Suresi, 20. Ayet"
+  },
+  {
+    "id": 159,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ مَا قَدَّمَتْ لِغَدٍ",
+    "turkish": "Ey iman edenler! Allah'a karşı gelmekten sakının ve herkes yarın (ahiret) için ne hazırladığına baksın.",
+    "source": "Haşr Suresi, 18. Ayet"
+  },
+  {
+    "id": 160,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+    "turkish": "Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz?",
+    "source": "Saff Suresi, 2. Ayet"
+  },
+  {
+    "id": 161,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ",
+    "turkish": "Ey iman edenler! Cuma günü namaz için çağrı yapıldığında (ezan okunduğunda), hemen Allah'ı anmaya koşun.",
+    "source": "Cuma Suresi, 9. Ayet"
+  },
+  {
+    "id": 162,
+    "arabic": "فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ وَاسْمَعُوا وَأَطِيعُوا وَأَنْفِقُوا خَيْرًا لِأَنْفُسِكُمْ",
+    "turkish": "O hâlde, gücünüz yettiği kadar Allah'a karşı gelmekten sakının. Dinleyin, itaat edin ve kendi iyiliğiniz için harcayın.",
+    "source": "Teğâbün Suresi, 16. Ayet"
+  },
+  {
+    "id": 163,
+    "arabic": "وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ",
+    "turkish": "Kim Allah'a karşı gelmekten sakınırsa, Allah ona bir çıkış yolu açar. Onu beklemediği yerden rızıklandırır.",
+    "source": "Talâk Suresi, 2-3. Ayetler"
+  },
+  {
+    "id": 164,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا",
+    "turkish": "Ey iman edenler! Kendinizi ve ailenizi yakıtı insanlar ve taşlar olan ateşten koruyun.",
+    "source": "Tahrîm Suresi, 6. Ayet"
+  },
+  {
+    "id": 165,
+    "arabic": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
+    "turkish": "O, hanginizin daha güzel amel yapacağını sınamak için ölümü ve hayatı yaratandır.",
+    "source": "Mülk Suresi, 2. Ayet"
+  },
+  {
+    "id": 166,
+    "arabic": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+    "turkish": "Şüphesiz sen yüce bir ahlak üzeresin.",
+    "source": "Kalem Suresi, 4. Ayet"
+  },
+  {
+    "id": 167,
+    "arabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+    "turkish": "Öyleyse sen (onlara karşı) güzel bir sabırla sabret.",
+    "source": "Meâric Suresi, 5. Ayet"
+  },
+  {
+    "id": 168,
+    "arabic": "وَثِيَابَكَ فَطَهِّرْ",
+    "turkish": "Elbiseni temiz tut.",
+    "source": "Müddessir Suresi, 4. Ayet"
+  },
+  {
+    "id": 169,
+    "arabic": "يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ",
+    "turkish": "O gün kişi, kendi elleriyle önceden ne gönderdiğine bakacaktır.",
+    "source": "Nebe Suresi, 40. Ayet"
+  },
+  {
+    "id": 170,
+    "arabic": "يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+    "turkish": "Ey insan! Seni, kerem sahibi Rabbine karşı aldatan nedir?",
+    "source": "İnfitâr Suresi, 6. Ayet"
+  },
+  {
+    "id": 171,
+    "arabic": "وَيْلٌ لِلْمُطَفِّفِينَ الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ",
+    "turkish": "Eksik ölçüp tartanların vay haline! Onlar insanlardan ölçüp aldıkları zaman tam alırlar.",
+    "source": "Mutaffifîn Suresi, 1-2. Ayetler"
+  },
+  {
+    "id": 172,
+    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "turkish": "Demek ki, zorlukla beraber bir kolaylık vardır. Evet, doğrusu zorlukla beraber bir kolaylık vardır.",
+    "source": "İnşirah Suresi, 5-6. Ayetler"
+  },
+  {
+    "id": 173,
+    "arabic": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+    "turkish": "Yaratan Rabbinin adıyla oku!",
+    "source": "Alak Suresi, 1. Ayet"
+  },
+  {
+    "id": 174,
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+    "turkish": "İman edip salih ameller işleyenlere gelince; işte onlar yaratılanların en hayırlısıdırlar.",
+    "source": "Beyyine Suresi, 7. Ayet"
+  },
+  {
+    "id": 175,
+    "arabic": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+    "turkish": "Kim zerre miktarı hayır işlemişse onu görür. Kim de zerre miktarı şer işlemişse onu görür.",
+    "source": "Zilzâl Suresi, 7-8. Ayetler"
+  },
+  {
+    "id": 176,
+    "arabic": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+    "turkish": "Şüphesiz insan, Rabbine karşı çok nankördür.",
+    "source": "Âdiyât Suresi, 6. Ayet"
+  },
+  {
+    "id": 177,
+    "arabic": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+    "turkish": "O gün kimin tartıları ağır gelirse, o hoşnut olacağı bir hayat içindedir.",
+    "source": "Kâria Suresi, 6-7. Ayetler"
+  },
+  {
+    "id": 178,
+    "arabic": "أَلْهَاكُمُ التَّكَاثُرُ حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+    "turkish": "Çoklukla övünmek sizi oyaladı; ta ki kabirlere varıncaya kadar.",
+    "source": "Tekâsür Suresi, 1-2. Ayetler"
+  },
+  {
+    "id": 179,
+    "arabic": "وَالْعَصْرِ إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+    "turkish": "Zamana andolsun ki, insan gerçekten ziyan içindedir. Ancak iman edip salih ameller işleyenler, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler başkadır.",
+    "source": "Asr Suresi, 1-3. Ayetler"
+  },
+  {
+    "id": 180,
+    "arabic": "فَوَيْلٌ لِلْمُصَلِّينَ الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ الَّذِينَ هُمْ يُرَاءُونَ",
+    "turkish": "Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar. Onlar namazlarıyla gösteriş yaparlar.",
+    "source": "Mâûn Suresi, 4-6. Ayetler"
+  },
+  {
+    "id": 181,
+    "arabic": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ",
+    "turkish": "Bile bile hakkı batılla karıştırmayın ve hakkı gizlemeyin.",
+    "source": "Bakara Suresi, 42. Ayet"
+  },
+  {
+    "id": 182,
+    "arabic": "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ",
+    "turkish": "Sabır ve namazla (Allah'tan) yardım isteyin. Şüphesiz bu, huşû duyanlardan başkasına ağır gelir.",
+    "source": "Bakara Suresi, 45. Ayet"
+  },
+  {
+    "id": 183,
+    "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+    "turkish": "Öyleyse beni anın ki, ben de sizi anayım. Bana şükredin, nankörlük etmeyin.",
+    "source": "Bakara Suresi, 152. Ayet"
+  },
+  {
+    "id": 184,
+    "arabic": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ",
+    "turkish": "İyilik, yüzlerinizi doğu ve batı tarafına çevirmeniz değildir. Asıl iyilik, Allah'a, ahiret gününe... inananların iyiliğidir.",
+    "source": "Bakara Suresi, 177. Ayet"
+  },
+  {
+    "id": 185,
+    "arabic": "لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنْفِقُوا مِمَّا تُحِبُّونَ",
+    "turkish": "Sevdiğiniz şeylerden Allah yolunda harcamadıkça gerçek iyiliğe asla erişemezsiniz.",
+    "source": "Âl-i İmrân Suresi, 92. Ayet"
+  },
+  {
+    "id": 186,
+    "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنْتُمُ الْأَعْلَوْنَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+    "turkish": "Gevşemeyin, hüzünlenmeyin. Eğer (gerçekten) iman etmişseniz üstün olan sizsiniz.",
+    "source": "Âl-i İmrân Suresi, 139. Ayet"
+  },
+  {
+    "id": 187,
+    "arabic": "إِنْ يَنْصُرْكُمُ اللَّهُ فَلَا غَالِبَ لَكُمْ",
+    "turkish": "Allah size yardım ederse, size galip gelecek kimse yoktur.",
+    "source": "Âl-i İmrân Suresi, 160. Ayet"
+  },
+  {
+    "id": 188,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ",
+    "turkish": "Ey iman edenler! Mallarınızı aranızda haksız yollarla yemeyin.",
+    "source": "Nisâ Suresi, 29. Ayet"
+  },
+  {
+    "id": 189,
+    "arabic": "وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا",
+    "turkish": "Size bir selam verildiği zaman, ondan daha güzeliyle veya aynıyla karşılık verin.",
+    "source": "Nisâ Suresi, 86. Ayet"
+  },
+  {
+    "id": 190,
+    "arabic": "مَا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِنْ شَكَرْتُمْ وَآمَنْتُمْ",
+    "turkish": "Eğer şükreder ve iman ederseniz, Allah size niçin azap etsin?",
+    "source": "Nisâ Suresi, 147. Ayet"
+  },
+  {
+    "id": 191,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ",
+    "turkish": "Ey iman edenler! Sözleşmeleri (verdiğiniz sözleri) yerine getirin.",
+    "source": "Mâide Suresi, 1. Ayet"
+  },
+  {
+    "id": 192,
+    "arabic": "وَلَا تَسُبُّوا الَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ فَيَسُبُّوا اللَّهَ عَدْوًا بِغَيْرِ عِلْمٍ",
+    "turkish": "Onların, Allah'tan başka taptıklarına sövmeyin; sonra onlar da bilgisizlikleri yüzünden sınırı aşarak Allah'a söverler.",
+    "source": "En'âm Suresi, 108. Ayet"
+  },
+  {
+    "id": 193,
+    "arabic": "ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً ۚ إِنَّهُ لَا يُحِبُّ الْمُعْتَدِينَ",
+    "turkish": "Rabbinize yalvara yakara ve gizlice dua edin. Şüphesiz O, haddi aşanları sevmez.",
+    "source": "A'râf Suresi, 55. Ayet"
+  },
+  {
+    "id": 194,
+    "arabic": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ",
+    "turkish": "Müminler ancak o kimselerdir ki; Allah anıldığı zaman kalpleri ürperir.",
+    "source": "Enfâl Suresi, 2. Ayet"
+  },
+  {
+    "id": 195,
+    "arabic": "وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ",
+    "turkish": "Allah'a ve Resûlüne itaat edin ve birbirinizle çekişmeyin. Sonra gevşersiniz ve gücünüz elden gider.",
+    "source": "Enfâl Suresi, 46. Ayet"
+  },
+  {
+    "id": 196,
+    "arabic": "وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ",
+    "turkish": "De ki: 'Çalışın! Sizin işlediklerinizi Allah da, Resûlü de, müminler de görecektir.'",
+    "source": "Tevbe Suresi, 105. Ayet"
+  },
+  {
+    "id": 197,
+    "arabic": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ",
+    "turkish": "Şüphesiz Allah, adaleti, iyilik yapmayı, yakınlara yardım etmeyi emreder; hayasızlığı, fenalık ve azgınlığı da yasaklar.",
+    "source": "Nahl Suresi, 90. Ayet"
+  },
+  {
+    "id": 198,
+    "arabic": "ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ",
+    "turkish": "Rabbinin yoluna hikmetle ve güzel öğütle davet et.",
+    "source": "Nahl Suresi, 125. Ayet"
+  },
+  {
+    "id": 199,
+    "arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا",
+    "turkish": "Rabbin, kendisinden başkasına asla ibadet etmemenizi ve ana-babaya iyi davranmanızı kesin olarak emretti.",
+    "source": "İsrâ Suresi, 23. Ayet"
+  },
+  {
+    "id": 200,
+    "arabic": "وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ",
+    "turkish": "Andolsun, biz Âdemoğullarını onurlandırdık (üstün bir izzet ve şerefe mazhar kıldık).",
+    "source": "İsrâ Suresi, 70. Ayet"
+  }
+  ]
+}
