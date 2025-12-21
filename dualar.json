@@ -352,6 +352,86 @@
       "meaningTr": "Allah'a, meleklerine, kitaplarına, peygamberlerine, ahiret gününe, kadere, hayır ve şerrin Allah'tan geldiğine inandım. Öldükten sonra dirilmek haktır. Şehadet ederim ki Allah'tan başka ilah yoktur ve yine şehadet ederim ki Muhammed O'nun kulu ve elçisidir.",
       "source": "Kaynak: Diyanet Elifba; İnanç Esasları",
       "audioUrl": "https://seninpage.com/audio/dua/namaz_amentu.mp3"
-    }
+    },
+    {
+    "id": "korunma_evden_cikarken",
+    "categoryId": "KORUNMA",
+    "title": "Evden Çıkarken Okunacak Dua",
+    "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Bismillâhi tevekkeltü alallâh. Lâ havle ve lâ kuvvete illâ billâh.",
+    "meaningTr": "Allah’ın adıyla. Allah’a tevekkül ettim. Güç ve kuvvet ancak Allah’tandır.",
+    "source": "Kaynak: Ebû Dâvûd, Edeb, 102; Tirmizî, Deavât, 34",
+    "audioUrl": "https://seninpage.com/audio/dua/korunma_evden_cikarken.mp3"
+  },
+  {
+    "id": "korunma_nazar_ruqyah",
+    "categoryId": "KORUNMA",
+    "title": "Nazar ve Haset İçin Okunacak Ruqyah Duası",
+    "arabic": "بِسْمِ اللَّهِ أَرْقِيكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ اللَّهُ يَشْفِيكَ بِسْمِ اللَّهِ أَرْقِيكَ",
+    "transliteration": "Bismillâhi erkîk. Min kulli şey’in yu’zîk. Min şerri kulli nefsin ev ayni hâsid. Allâhu yeşfîk. Bismillâhi erkîk.",
+    "meaningTr": "Allah’ın adıyla sana rukye yapıyorum: Sana zarar veren her şeyden, her nefsin şerrinden ve hasetçinin nazarından… Allah sana şifa versin. Allah’ın adıyla sana rukye yapıyorum.",
+    "source": "Kaynak: Müslim, Selâm, 66",
+    "audioUrl": "https://seninpage.com/audio/dua/korunma_nazar_ruqyah.mp3"
+  },
+  {
+    "id": "korunma_vesvese_seytan_duasi",
+    "categoryId": "KORUNMA",
+    "title": "Vesvese ve Şeytandan Korunma Duası",
+    "arabic": "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ",
+    "transliteration": "Rabbî eûzü bike min hemezâti’ş-şeyâtîn ve eûzü bike rabbî en yahdurûn.",
+    "meaningTr": "Rabbim! Şeytanların vesveselerinden Sana sığınırım. Rabbim, onların yanımda bulunmalarından da Sana sığınırım.",
+    "source": "Kaynak: Kur'an-ı Kerim, Mü’minûn 23:97-98",
+    "audioUrl": "https://seninpage.com/audio/dua/korunma_vesvese_seytan_duasi.mp3"
+  },
+  {
+    "id": "sikinti_sifa_agri_icin_dua",
+    "categoryId": "SIKINTI_SIFA_RIZIK",
+    "title": "Ağrı ve Sızı İçin Okunacak Dua",
+    "arabic": "بِسْمِ اللَّهِ بِسْمِ اللَّهِ بِسْمِ اللَّهِ أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+    "transliteration": "Bismillâh, bismillâh, bismillâh. Eûzü billâhi ve kudratihî min şerri mâ ecidu ve uhâzir.",
+    "meaningTr": "Allah’ın adıyla… Bulduğum ve çekindiğim şeyin şerrinden Allah’a ve O’nun kudretine sığınırım.",
+    "source": "Kaynak: Müslim, Selâm, 69",
+    "audioUrl": "https://seninpage.com/audio/dua/sikinti_sifa_agri_icin_dua.mp3"
+  },
+  {
+    "id": "sikinti_sifa_borc_duasi_matham_maghram",
+    "categoryId": "SIKINTI_SIFA_RIZIK",
+    "title": "Borç ve Günah Yükünden Allah'a Sığınma Duası",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+    "transliteration": "Allâhumme innî eûzü bike minel-me’semi vel-mağram.",
+    "meaningTr": "Allah’ım! Günah yükünden ve borç yükünden Sana sığınırım.",
+    "source": "Kaynak: Buhârî, Deavât, 38",
+    "audioUrl": "https://seninpage.com/audio/dua/sikinti_sifa_borc_duasi_matham_maghram.mp3"
+  },
+  {
+    "id": "sikinti_sifa_korku_hasbunallah",
+    "categoryId": "SIKINTI_SIFA_RIZIK",
+    "title": "Korku ve Endişe Anında Okunacak Zikir",
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "transliteration": "Hasbunallâhu ve ni‘mel-vekîl.",
+    "meaningTr": "Allah bize yeter; O ne güzel vekildir.",
+    "source": "Kaynak: Kur'an-ı Kerim, Âl-i İmrân 3:173",
+    "audioUrl": "https://seninpage.com/audio/dua/sikinti_sifa_korku_hasbunallah.mp3"
+  },
+  {
+    "id": "sikinti_sifa_sinav_rabbi_zidni_ilma",
+    "categoryId": "SIKINTI_SIFA_RIZIK",
+    "title": "İlim ve Başarı Duası (Rabbi Zidnî İlmen)",
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "transliteration": "Rabbî zidnî ilmâ.",
+    "meaningTr": "Rabbim! İlmimi artır.",
+    "source": "Kaynak: Kur'an-ı Kerim, Tâhâ 20:114",
+    "audioUrl": "https://seninpage.com/audio/dua/sikinti_sifa_sinav_rabbi_zidni_ilma.mp3"
+  },
+  {
+    "id": "sikinti_sifa_sinav_rabbi_shrah_li_sadri",
+    "categoryId": "SIKINTI_SIFA_RIZIK",
+    "title": "Kolaylık ve İfade Duası (Hz. Musa Duası)",
+    "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي",
+    "transliteration": "Rabbîşrah lî sadrî ve yessir lî emrî vahlul ukdeten min lisânî yefkahû kavlî.",
+    "meaningTr": "Rabbim! Gönlüme ferahlık ver, işimi kolaylaştır, dilimdeki düğümü çöz ki sözümü anlasınlar.",
+    "source": "Kaynak: Kur'an-ı Kerim, Tâhâ 20:25-28",
+    "audioUrl": "https://seninpage.com/audio/dua/sikinti_sifa_sinav_rabbi_shrah_li_sadri.mp3"
+  }
   ]
 }
